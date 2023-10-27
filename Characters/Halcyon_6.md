@@ -1,11 +1,11 @@
 ---
-Name: Joe Bob
-Edge: 3
-Heart: 2
+Name: Halcyon 6
+Edge: 1
+Heart: 3
 Iron: 1
-Shadow: 1
+Shadow: 2
 Wits: 2
-Health: 2
+Health: 5
 Spirit: 5
 Supply: 5
 Momentum: 2
@@ -28,9 +28,23 @@ Discoveries_XPEarned: 0
 Quests_Progress: 0
 Quests_TrackImage: "[[progress-track-0.svg]]"
 Quests_XPEarned: 0
+Label: halcyon
 ---
 # `=this.Name`
-Maybe image here
+
+![[Halcyon 6.png|200]]![[Tron-Identity.png|320]]
+
+I was created to end the Al wars but I was a child and I was scared. I ran away and my
+people paid the ultimate price enslavement to cruel and powerful. But after the years of
+isolation and observation of the suffering I caused by not ending the Exodus/Al War. I
+now I swear I will not rest till until freedom is the right of all sentient beings is a reality.
+
+Looks like a human/humanoid with odd precise "like Data" when stressed you can see
+the seams of his nanites - bald no hair - male
+
+Very Curious, courageous, hopeful, likes sentients, hates oppression.
+
+Wears cool spacer gear.
 
 ## Stats
 | Edge | Heart | Iron | Shadow | Wits |
@@ -68,11 +82,29 @@ WHERE contains(file.path, this.file.path)
 LIST without id embed(link(meta(Quests_TrackImage).path, "350"))
 WHERE contains(file.path, this.file.path)
 ```
+
+
+## Background Vow
+```dataview
+TABLE WITHOUT ID Name, Character, embed(link(meta(TrackImage).path, "150")) AS Progress
+FROM #incomplete 
+WHERE file.name != "Progress_Template"
+AND contains(file.tags, "background")
+AND contains(file.tags, this.Label)
+```
+
+
 ## Vows / Progress Tracks
 ```dataview
 TABLE Name, embed(link(meta(TrackImage).path, "150")) AS Progress
 FROM #incomplete WHERE file.name != "Progress_Template" 
+AND !contains(file.tags, "background")
 ```
+
+
 ## Assets
-Embed assets here like this:
-![[Sniper]]
+
+![[Vestige]]
+
+
+![[Kinetic]]

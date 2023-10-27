@@ -1,10 +1,10 @@
 ---
-Name: Character Name
-Edge: 3
+Name: Rowen Sedano
+Edge: 2
 Heart: 2
-Iron: 1
+Iron: 3
 Shadow: 1
-Wits: 2
+Wits: 1
 Health: 5
 Spirit: 5
 Supply: 5
@@ -28,9 +28,22 @@ Discoveries_XPEarned: 0
 Quests_Progress: 0
 Quests_TrackImage: "[[progress-track-0.svg]]"
 Quests_XPEarned: 0
+Label: rowen
 ---
 # `=this.Name`
-Maybe image here
+
+![[RowenSedano.jpg|200]]
+
+Haunted by past actions or failure - was part of outpost wiped out by a monster. Tried to fight back in exosuit (which is why he lived); he failed and exosuit was destroyed (but he survived).
+
+-- TODO add this as progress
+Vow: Track down why AI things are letting in monsters (or something).
+
+Stuff:
+* Beam Gun (named weapon)
+* Greatsword
+* Broken exosuit glove with icon (from trying to repel monster attack)
+* Paring knife
 
 ## Stats
 | Edge | Heart | Iron | Shadow | Wits |
@@ -69,7 +82,6 @@ LIST without id embed(link(meta(Quests_TrackImage).path, "350"))
 WHERE contains(file.path, this.file.path)
 ```
 
-
 ## Background Vow
 ```dataview
 TABLE WITHOUT ID Name, Character, embed(link(meta(TrackImage).path, "150")) AS Progress
@@ -88,8 +100,12 @@ AND !contains(file.tags, "background")
 ```
 
 
-
-
 ## Assets
-Embed assets here like this:
-![[Sniper]]
+
+![[Gunner]]
+
+![[Slayer]]
+
+![[Rockhorn]]
+
+

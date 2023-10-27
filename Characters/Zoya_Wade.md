@@ -1,36 +1,43 @@
 ---
-Name: Mary Sue
+Name: Zoya Wade
 Edge: 2
 Heart: 1
-Iron: 2
-Shadow: 3
-Wits: 1
+Iron: 1
+Shadow: 2
+Wits: 3
 Health: 5
 Spirit: 5
 Supply: 5
-Momentum: 4
+Momentum: 2
 Wealth: 0
 Wounded: ⬡
 Shaken: ⬡
 Unprepared: ⬡
-Harmed: ⬢
+Harmed: ⬡
 Traumatized: ⬡
 Doomed: ⬡
 Tormented: ⬡
 Indebted: ⬡
 XPSpent: 0
-Bonds_Progress: 53
-Bonds_TrackImage: "[[progress-track-13.svg]]"
-Bonds_XPEarned: 23
+Bonds_Progress: 0
+Bonds_TrackImage: "[[progress-track-0.svg]]"
+Bonds_XPEarned: 0
 Discoveries_Progress: 0
 Discoveries_TrackImage: "[[progress-track-0.svg]]"
 Discoveries_XPEarned: 0
 Quests_Progress: 0
 Quests_TrackImage: "[[progress-track-0.svg]]"
 Quests_XPEarned: 0
+Label: zoya
 ---
+
 # `=this.Name`
-Maybe image here
+
+![[austriac female solider by Antonio Rizzatti.png|200]]
+
+Zoya was born and raised on Bulwark (the center of human civilization in The Forge). Her duty and destiny was to become a scion of her powerful clan (one of the five that compose The Founders). During an internecine power struggle she was framed for the murder of one of her family's political foes. Now a fugitive sought by the Keepers, she fled to the outlands and has steadily made a name (callsign) for herself as a vigilante for hire solving crimes, major and minor, in the outlying settlements. She stays one step ahead of any Keepers trying to haul her back to Bulwark.
+
+Zoya acquired her starship the "Luminous Sorrow" in trade for a precious family heirloom -- an antique statuette of her clans founder. The ship is powered by an ancient precursor device.
 
 ## Stats
 | Edge | Heart | Iron | Shadow | Wits |
@@ -68,11 +75,30 @@ WHERE contains(file.path, this.file.path)
 LIST without id embed(link(meta(Quests_TrackImage).path, "350"))
 WHERE contains(file.path, this.file.path)
 ```
+
+
+## Background Vow
+```dataview
+TABLE WITHOUT ID Name, Character, embed(link(meta(TrackImage).path, "150")) AS Progress
+FROM #incomplete 
+WHERE file.name != "Progress_Template"
+AND contains(file.tags, "background")
+AND contains(file.tags, this.Label)
+```
+
+
 ## Vows / Progress Tracks
 ```dataview
-TABLE Name, embed(link(meta(TrackImage).path, "150")) AS Progress
+TABLE WITHOUT ID Name, embed(link(meta(TrackImage).path, "150")) AS Progress
 FROM #incomplete WHERE file.name != "Progress_Template" 
+AND !contains(file.tags, "background")
 ```
+
+
 ## Assets
-Embed assets here like this:
-![[Sniper]]
+
+![[Fugitive]]
+
+![[Sleuth]]
+
+![[Starship]]

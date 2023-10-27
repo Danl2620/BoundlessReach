@@ -8,18 +8,122 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1faec69c7078925",
+            "id": "8152f10edd2b16ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Locations/Larimar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cf9ca683ffe016a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Zoya_Wade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b00f12bbac9b4987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Halcyon_6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "487551310a4a07d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Rowen_Sedano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c37ed28e4d99c4a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress/Arnav.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "380cd2dbf86698c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ee98647419bad84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress/Rowen_Sedano_Background_Vow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "659863188d25e869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress/Zoya_Background_Vow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0c5a5d0ccae7209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress/Halcyon_6_Background_Vow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c038f433d01fadb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Halcyon_6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,6 +168,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "307ae7c51fb36861",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Progress/Halcyon_6_Background_Vow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Progress/Halcyon_6_Background_Vow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Progress/Halcyon_6_Background_Vow.md"
               }
             }
           },
@@ -145,17 +257,55 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d1faec69c7078925",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a0c5a5d0ccae7209",
   "lastOpenFiles": [
-    "TO DO LIST.md",
-    "README.md",
+    "Characters/Rowen_Sedano.md",
+    "Characters/Halcyon_6.md",
+    "Characters/Zoya_Wade.md",
+    "Templates/Character_Template.md",
+    "Progress/Halcyon_6_Background_Vow.md",
+    "Progress/Rowen_Sedano_Background_Vow.md",
+    "Progress/Zoya_Background_Vow.md",
+    "Support/inlineScripts/lists.sfile.md",
+    "Moves/Adventure/Aid_Your_Ally.md",
+    "Locations/Larimar.md",
+    "Progress/Arnav.md",
+    "Truths/Artificial_Intelligence.md",
+    "Templates/Progress_Template.md",
+    "Support/inlineScripts/starforged_progress.sfile.md",
+    "Support/inlineScripts/mythicgme.sfile.md",
+    "Support/inlineScripts/une.sfile.md",
     "Journals/Journal 1.md",
-    "Progress/Vow1.md",
-    "Progress/Progress1.md",
+    "Images/Concepts/RowenSedano.jpg",
+    "Images/Concepts/Tron-Identity.png",
+    "Images/Concepts/Halcyon 6.png",
+    "Locations/Unity.md",
+    "Locations/Erebus.md",
+    "Images/Concepts/Boundless Maelstrom Sector Map.png",
+    "Images/Concepts/space_frontier_outpost_8_by_thomashauser_dee4hil-fullview.jpg",
+    "Images/Concepts/sci_fi_outpost_07_by_polish3d_debvg0z-fullview.jpg",
+    "Images/Concepts/unity_settlement.webp",
+    "Images/Concepts/austriac female solider by Antonio Rizzatti.png",
+    "Images/Concepts/Yacht on Drowned Coast by Alex Ries.jpg",
+    "Images/Concepts/sflogo3.webp",
+    "Images/Concepts",
+    "README.md",
+    "NPCs/Arnav \"Bluewing\" Hunter.md",
+    "Locations/Location 1.md",
+    "Clocks/Clock1.md",
+    "Characters/Mech1.md",
     "Progress/Combat1.md",
-    "Progress/Captain_Deadeye.md",
-    "Character/Character_Sheet.md",
-    "Character/Bonds.md",
-    "Character/Quests.md"
+    "Progress/Captain_Deadeye.md"
   ]
 }
