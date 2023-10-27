@@ -8,5 +8,7 @@
 > **Trouble:** Changing Environment
 > **Project:** Mining
 
+![[Crash Site by Anarky Art.png|400]]
+
 An old deep space comet mining facility
 

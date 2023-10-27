@@ -11,9 +11,11 @@
             "id": "d96e9f50bf318694",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Concepts/Boundless Maelstrom Sector Map.png"
+                "file": "Locations/Erebus.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -218,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Concepts/Boundless Maelstrom Sector Map.png",
+                "file": "Locations/Erebus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Concepts/Boundless Maelstrom Sector Map.png",
+                "file": "Locations/Erebus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Concepts/Boundless Maelstrom Sector Map.png"
+                "file": "Locations/Erebus.md"
               }
             }
           },
@@ -291,16 +293,18 @@
   },
   "active": "d96e9f50bf318694",
   "lastOpenFiles": [
+    "Locations/Larimar.md",
+    "Locations/Unity.md",
+    "Locations/Erebus.md",
+    "Images/Concepts/Crash Site by Anarky Art.png",
+    "Images/Concepts/Boundless Maelstrom Sector Map.png",
     "Images/Concepts/austriac female solider by Antonio Rizzatti.png",
     "Journals/Journal 1.md",
     "Characters/Zoya_Wade.md",
     "Images/Concepts/LuminousSorrow.png",
     "Images/Concepts/Latifa El Hassane by This Northern Boy.png",
-    "Locations/Unity.md",
     "Images/Concepts/marcel-deneuve-mansur.jpeg",
     "Images/Concepts/canyon_city_by_andreewallin_d1vxvau-fullview.jpg",
-    "Locations/Larimar.md",
-    "Locations/Erebus.md",
     "Characters/Halcyon_6.md",
     "README.md",
     "LICENSE.md",
@@ -320,9 +324,6 @@
     "Images/Concepts/RowenSedano.jpg",
     "Images/Concepts/Tron-Identity.png",
     "Images/Concepts/Halcyon 6.png",
-    "Images/Concepts/Boundless Maelstrom Sector Map.png",
-    "Images/Concepts/space_frontier_outpost_8_by_thomashauser_dee4hil-fullview.jpg",
-    "Images/Concepts/sci_fi_outpost_07_by_polish3d_debvg0z-fullview.jpg",
     "Images/Concepts",
     "NPCs/Arnav \"Bluewing\" Hunter.md",
     "Locations/Location 1.md",
