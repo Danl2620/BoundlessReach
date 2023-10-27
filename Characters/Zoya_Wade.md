@@ -33,7 +33,7 @@ Label: zoya
 
 # `=this.Name`
 
-![[austriac female solider by Antonio Rizzatti.png|200]]
+![[austriac female solider by Antonio Rizzatti.png|200]]![[Latifa El Hassane by This Northern Boy.png|140]]
 
 Zoya was born and raised on Bulwark (the center of human civilization in The Forge). Her duty and destiny was to become a scion of her powerful clan (one of the five that compose The Founders). During an internecine power struggle she was framed for the murder of one of her family's political foes. Now a fugitive sought by the Keepers, she fled to the outlands and has steadily made a name (callsign) for herself as a vigilante for hire solving crimes, major and minor, in the outlying settlements. She stays one step ahead of any Keepers trying to haul her back to Bulwark.
 

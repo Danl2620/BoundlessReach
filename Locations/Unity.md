@@ -17,7 +17,8 @@ One quadrant of Aphelion is thoroughly blasted away by an ancient asteroid impac
 > **Trouble:** Overdue delivery
 > **Project:** Agriculture
 
-![[unity_settlement.webp|200]] ![[sci_fi_outpost_07_by_polish3d_debvg0z-fullview.jpg|200]]
+![[marcel-deneuve-mansur.jpeg|300]]![[sci_fi_outpost_07_by_polish3d_debvg0z-fullview.jpg|300]]
+![[canyon_city_by_andreewallin_d1vxvau-fullview.jpg|512]]
 
 Unity is a farming settlement with vast enclosed hydroponic arrays built into the rocky crust of Aphelion. The settlement itself is also partially built into the planet's surface, with extensive underground areas.
 
