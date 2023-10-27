@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "380cd2dbf86698c4",
@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress/Halcyon_6_Background_Vow.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress/Halcyon_6_Background_Vow.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress/Halcyon_6_Background_Vow.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress/Halcyon_6_Background_Vow.md"
+                "file": "README.md"
               }
             }
           },
@@ -270,11 +270,12 @@
   },
   "active": "a0c5a5d0ccae7209",
   "lastOpenFiles": [
-    "Characters/Rowen_Sedano.md",
-    "Characters/Halcyon_6.md",
-    "Characters/Zoya_Wade.md",
-    "Templates/Character_Template.md",
+    "LICENSE.md",
     "Progress/Halcyon_6_Background_Vow.md",
+    "Characters/Halcyon_6.md",
+    "Templates/Character_Template.md",
+    "Characters/Zoya_Wade.md",
+    "Characters/Rowen_Sedano.md",
     "Progress/Rowen_Sedano_Background_Vow.md",
     "Progress/Zoya_Background_Vow.md",
     "Support/inlineScripts/lists.sfile.md",
@@ -305,7 +306,6 @@
     "Locations/Location 1.md",
     "Clocks/Clock1.md",
     "Characters/Mech1.md",
-    "Progress/Combat1.md",
-    "Progress/Captain_Deadeye.md"
+    "Progress/Combat1.md"
   ]
 }

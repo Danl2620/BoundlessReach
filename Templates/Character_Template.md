@@ -83,10 +83,9 @@ AND contains(file.tags, this.Label)
 ## Vows / Progress Tracks
 ```dataview
 TABLE WITHOUT ID Name, embed(link(meta(TrackImage).path, "150")) AS Progress
-FROM #incomplete WHERE file.name != "Progress_Template" 
-AND !contains(file.tags, "background")
+FROM #incomplete and !#background
+WHERE file.name != "Progress_Template" 
 ```
-
 
 
 

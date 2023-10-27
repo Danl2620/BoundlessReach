@@ -1,5 +1,6 @@
 [
   "dataview",
   "templater-obsidian",
-  "obsidian-text-expander-js"
+  "obsidian-text-expander-js",
+  "obsidian-git"
 ]
