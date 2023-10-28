@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Erebus.md",
+                "file": "Locations/Unity.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Rowen_Sedano.md",
+                "file": "NPCs/Arnav \"Bluewing\" Hunter.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "380cd2dbf86698c4",
@@ -220,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Erebus.md",
+                "file": "NPCs/Arnav \"Bluewing\" Hunter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Erebus.md",
+                "file": "NPCs/Arnav \"Bluewing\" Hunter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Erebus.md"
+                "file": "NPCs/Arnav \"Bluewing\" Hunter.md"
               }
             }
           },
@@ -291,10 +292,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d96e9f50bf318694",
+  "active": "487551310a4a07d5",
   "lastOpenFiles": [
-    "Locations/Larimar.md",
+    "gh-pages/docs/assets/css/customization.css",
+    "gh-pages/docs/assets/css/custom_attributes.css",
+    "gh-pages/docs/assets/css/admonition.css",
+    "gh-pages/overrides/partials/source-file.html",
+    "gh-pages/overrides/partials/post-list.html",
+    "gh-pages/overrides/partials/meta.html",
+    "gh-pages/overrides/partials/css_class.html",
+    "gh-pages/overrides/partials/content.html",
+    "gh-pages/overrides/partials/comments.html",
+    "gh-pages/overrides/hooks/on_page_markdown.py",
+    "gh-pages/overrides/hooks/on_files.py",
+    "gh-pages/docs/tags.md",
+    "gh-pages/README.md",
+    "template-gh-pages-main/docs/tags.md",
+    "template-gh-pages-main/README.md",
+    "Images/Concepts/Arnav Hunter.png",
+    "Characters/Rowen_Sedano.md",
     "Locations/Unity.md",
+    "Images/Concepts/zrd_51_by_tituslunter-d5xq1n2.jpg",
+    "Characters/Halcyon_6.md",
+    "Images/Concepts/Layout_01_by_saejinoh_cropped.png",
+    "Locations/Larimar.md",
+    "Images/Concepts/cyberprod_Morning_at_miners_city_by_AlexWild.jpg",
+    "Images/Concepts/Coastal_Trading_Outpost_by_Hideyoshi.jpg",
     "Locations/Erebus.md",
     "Images/Concepts/Crash Site by Anarky Art.png",
     "Images/Concepts/Boundless Maelstrom Sector Map.png",
@@ -303,14 +326,10 @@
     "Characters/Zoya_Wade.md",
     "Images/Concepts/LuminousSorrow.png",
     "Images/Concepts/Latifa El Hassane by This Northern Boy.png",
-    "Images/Concepts/marcel-deneuve-mansur.jpeg",
-    "Images/Concepts/canyon_city_by_andreewallin_d1vxvau-fullview.jpg",
-    "Characters/Halcyon_6.md",
     "README.md",
     "LICENSE.md",
     "Progress/Halcyon_6_Background_Vow.md",
     "Templates/Character_Template.md",
-    "Characters/Rowen_Sedano.md",
     "Progress/Rowen_Sedano_Background_Vow.md",
     "Progress/Zoya_Background_Vow.md",
     "Support/inlineScripts/lists.sfile.md",
@@ -320,14 +339,6 @@
     "Templates/Progress_Template.md",
     "Support/inlineScripts/starforged_progress.sfile.md",
     "Support/inlineScripts/mythicgme.sfile.md",
-    "Support/inlineScripts/une.sfile.md",
-    "Images/Concepts/RowenSedano.jpg",
-    "Images/Concepts/Tron-Identity.png",
-    "Images/Concepts/Halcyon 6.png",
-    "Images/Concepts",
-    "NPCs/Arnav \"Bluewing\" Hunter.md",
-    "Locations/Location 1.md",
-    "Clocks/Clock1.md",
-    "Characters/Mech1.md"
+    "Support/inlineScripts/une.sfile.md"
   ]
 }
