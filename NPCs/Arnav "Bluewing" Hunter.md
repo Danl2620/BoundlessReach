@@ -6,4 +6,6 @@
 > **Role:** Engineer
 > **Goal:** Undermine a relationship
 
-Arnav is an hydrologic engineer who helps build and maintain the complex automated underwater salvage machinery used to mine Larimar of its ancient tech and materials. Arnav suffers from mild seasickness.
+![[Arnav Hunter.png|220]]
+
+Arnav is an hydrologic engineer who helps build and maintain the complex automated underwater salvage machinery used to mine Larimar of its ancient tech and materials. Arnav grew up in low gravity orbital and planetoid colonies so has the typical lean spacer build. He suffers from mild seasickness.

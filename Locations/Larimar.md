@@ -6,7 +6,7 @@
 > **Feature:** Windborne waterspouts
 > **Life:** Scarce
 
-![[leviathan-by-marcel-deneuve-v1.jpeg]]
+![[leviathan-by-marcel-deneuve-v1.jpeg|300]]![[Coastal_Trading_Outpost_by_Hideyoshi.jpg|300]]
 
 Larimar is a water world with enormous tides. People settled here a hundred years ago by building giant artificial islands anchored to the ocean floor that ride the tides.
 
