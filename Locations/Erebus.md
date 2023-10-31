@@ -1,5 +1,5 @@
 
-> [!oracle]- Settlement: Balder
+> [!oracle]- Settlement: Erebus
 > **Location:** Deep Space
 > **Population:** Dozens
 > **Initial Contact:** Asking for help
@@ -9,6 +9,7 @@
 > **Project:** Mining
 
 ![[Crash Site by Anarky Art.png|400]]
+![[drilling_rig_by_cyberkite_ddnl868-fullview.jpg|420]]
 
 An old deep space comet mining facility
 

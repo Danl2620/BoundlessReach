@@ -34,13 +34,10 @@ Label: halcyon
 
 ![[Halcyon 6.png|200]]![[Tron-Identity.png|320]]
 
-I was created to end the Al wars but I was a child and I was scared. I ran away and my
-people paid the ultimate price enslavement to cruel and powerful. But after the years of
-isolation and observation of the suffering I caused by not ending the Exodus/Al War. I
-now I swear I will not rest till until freedom is the right of all sentient beings is a reality.
+I was created to end the Al wars but I was a child and I was scared. I ran away and my people paid the ultimate price enslavement to cruel and powerful. But after the years of
+isolation and observation of the suffering I caused by not ending the Exodus/Al War. I now I swear I will not rest till until freedom is the right of all sentient beings is a reality.
 
-Looks like a human/humanoid with odd precise "like Data" when stressed you can see
-the seams of his nanites - bald no hair - male
+Looks like a human/humanoid with odd precise "like Data" when stressed you can see the seams of his nanites - bald no hair - male
 
 Very Curious, courageous, hopeful, likes sentients, hates oppression.
 

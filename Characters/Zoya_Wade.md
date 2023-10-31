@@ -83,7 +83,7 @@ TABLE WITHOUT ID Name, Character, embed(link(meta(TrackImage).path, "150")) AS P
 FROM #incomplete 
 WHERE file.name != "Progress_Template"
 AND contains(file.tags, "background")
-AND contains(file.tags, this.Label)
+AND file.frontmatter["Character"] = this.Name
 ```
 
 

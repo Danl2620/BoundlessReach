@@ -3,5 +3,5 @@
   "templater-obsidian",
   "obsidian-text-expander-js",
   "obsidian-git",
-  "obsidian-mkdocs-publisher"
+  "obsidian-pandoc"
 ]
