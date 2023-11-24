@@ -24,7 +24,7 @@ The primary industries of Larimar are salvage of the ancient ruins lying on the 
 
 ![[Yacht on Drowned Coast by Alex Ries.jpg]]
 
-Ramshackle is managed by the "Infinite Accord" faction. It's the gateway settlement for Larimar and trades in exotic fish, other seaborne lifeforms, and ancient tech and materials mined from the ocean floor of Larimar.
+Ramshackle is managed by the [[Factions#^9a16c2|Infinite Accord]] faction. It's the gateway settlement for Larimar and trades in exotic fish, other seaborne lifeforms, and ancient tech and materials mined from the ocean floor of Larimar.
 
 The name comes from the way the original settlement's artificial islands were linked together and rode the tides in a "ramshackle" way.
 

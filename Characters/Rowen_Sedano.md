@@ -7,8 +7,8 @@ Shadow: 1
 Wits: 1
 Health: 5
 Spirit: 5
-Supply: 5
-Momentum: 2
+Supply: 4
+Momentum: 8
 Wealth: 0
 Wounded: ⬡
 Shaken: ⬡
@@ -22,15 +22,18 @@ XPSpent: 0
 Bonds_Progress: 0
 Bonds_TrackImage: "[[progress-track-0.svg]]"
 Bonds_XPEarned: 0
-Discoveries_Progress: 0
-Discoveries_TrackImage: "[[progress-track-0.svg]]"
+Discoveries_Progress: 3
+Discoveries_TrackImage: "[[progress-track-3.svg]]"
 Discoveries_XPEarned: 0
 Quests_Progress: 0
 Quests_TrackImage: "[[progress-track-0.svg]]"
 Quests_XPEarned: 0
 Label: rowen
+Callsign: Shutdown
 ---
 # `=this.Name`
+
+#### (_`=this.Callsign`_)
 
 ![[RowenSedano.jpg|200]]
 

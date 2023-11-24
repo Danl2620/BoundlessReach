@@ -3,7 +3,7 @@
 
 
 ## Abilities:
-- [ ] When you make a move to investigate, track, or stalk an inhuman foe, add +1 and take +1 momentum on a hit.
+- [x] When you make a move to investigate, track, or stalk an inhuman foe, add +1 and take +1 momentum on a hit.
 
 - [ ] When you [Swear an Iron Vow](Moves/quest/swear_an_iron_vow) (formidable or greater) to slay an inhuman foe in service to a community, reroll any dice. When you [Fulfill Your Vow](Moves/quest/fulfill_your_vow) and score a hit, also mark 2 ticks on your bonds legacy track.
 

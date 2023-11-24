@@ -1,5 +1,5 @@
 ---
-Integrity: 5
+Integrity: 2
 Max: 5
 ---
 # Starship

@@ -3,7 +3,7 @@
 
 
 ## Abilities:
-- [ ] You wield kinetic powers. By focusing, you may remotely push, pull, lift, or constrict objects and beings that are about your size or smaller. When you are in a risky situation and draw on your powers to make a move, add +2 and [Lose Momentum](Moves/suffer/lose_momentum) (-2).
+- [x] You wield kinetic powers. By focusing, you may remotely push, pull, lift, or constrict objects and beings that are about your size or smaller. When you are in a risky situation and draw on your powers to make a move, add +2 and [Lose Momentum](Moves/suffer/lose_momentum) (-2).
 
 - [ ] As above, but you may instead draw on your powers in a desperate effort to change the outcome of an action. If you do, add +2 (after you roll) and [Lose Momentum](Moves/suffer/lose_momentum) (-3).
 

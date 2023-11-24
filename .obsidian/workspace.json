@@ -8,43 +8,50 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d96e9f50bf318694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Unity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8152f10edd2b16ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Larimar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4cf9ca683ffe016a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Larimar.md",
+                "file": "Characters/Zoya_Wade.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1943975bc3b1e7b5",
+            "id": "2828edf205955ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Halcyon_6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "569e6ed48df4f782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Rowen_Sedano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "23d6f8cc661bad8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8152f10edd2b16ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +63,24 @@
             }
           },
           {
-            "id": "b00f12bbac9b4987",
+            "id": "d96e9f50bf318694",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Halcyon_6.md",
+                "file": "Locations/Aphelion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "516b74b0fc95eddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Command_Vehicle/Starship.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,62 +99,7 @@
             }
           },
           {
-            "id": "c37ed28e4d99c4a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Arnav \"Bluewing\" Hunter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "380cd2dbf86698c4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0ee98647419bad84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progress/Rowen_Sedano_Background_Vow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "659863188d25e869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progress/Zoya_Background_Vow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0c5a5d0ccae7209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c038f433d01fadb",
+            "id": "b00f12bbac9b4987",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,9 +109,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41c26016c10a59cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Factions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Action](",
+                "query": "planet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 311.5
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -221,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Larimar.md",
+                "file": "Journals/Journal 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Larimar.md",
+                "file": "Journals/Journal 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Larimar.md"
+                "file": "Journals/Journal 1.md"
               }
             }
           },
@@ -289,23 +264,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "4cf9ca683ffe016a",
+  "active": "8152f10edd2b16ce",
   "lastOpenFiles": [
-    "Locations/Unity.md",
+    "Clocks/volo_backup.md",
     "Characters/Halcyon_6.md",
-    "Characters/Rowen_Sedano.md",
-    "Characters/Zoya_Wade.md",
-    "NPCs/Arnav \"Bluewing\" Hunter.md",
-    "Progress/Zoya_Background_Vow.md",
-    "Progress/Arnav.md",
-    "Progress/Rowen_Sedano_Background_Vow.md",
     "Journals/Journal 1.md",
+    "Characters/Rowen_Sedano.md",
+    "NPCs/Arnav \"Bluewing\" Hunter.md",
+    "Journals/Factions.md",
+    "Clocks/Derelect_Core_Meltdown.md",
+    "Moves/Adventure/Check_Your_Gear.md",
+    "Locations/Aphelion.md",
+    "Characters/Zoya_Wade.md",
+    "Assets/Command_Vehicle/Starship.md",
+    "Assets/Support_Vehicle/Shuttle.md",
+    "Assets/Support_Vehicle/Service_Pod.md",
+    "Assets/Support_Vehicle/Skiff.md",
+    "Progress/Arthir_Badger.md",
+    "Clocks/Boss_Bolo_senses_us.md",
+    "Moves/Adventure/Aid_Your_Ally.md",
+    "Locations/Larimar.md",
+    "Moves/Adventure/Face_Danger.md",
+    "Moves/Recover/Repair.md",
+    "Oracles/Creatures/Creatures_First_Look.md",
+    "Progress/Find_the_Derelict.md",
+    "Progress/Resolve_Ghost_Ship.md",
+    "Progress/Amorphous_Creature.md",
+    "Moves/Legacy/Advance.md",
+    "Oracles/Planets/Furnace/Planets_Furnace_Atmosphere.md",
     "Characters/Zoya_Wade.mediawiki",
     "Characters/Zoya_Wade.html",
-    "Locations/Erebus.md",
     "Images/Concepts/drilling_rig_by_cyberkite_ddnl868-fullview.jpg",
     "gh-pages/docs/assets/css/customization.css",
     "gh-pages/docs/assets/css/custom_attributes.css",
@@ -315,29 +307,14 @@
     "gh-pages/overrides/partials/meta.html",
     "gh-pages/overrides/partials/css_class.html",
     "gh-pages/overrides/partials/content.html",
-    "gh-pages/docs/tags.md",
-    "gh-pages/README.md",
-    "template-gh-pages-main/docs/tags.md",
-    "template-gh-pages-main/README.md",
     "Images/Concepts/Arnav Hunter.png",
     "Images/Concepts/zrd_51_by_tituslunter-d5xq1n2.jpg",
     "Images/Concepts/Layout_01_by_saejinoh_cropped.png",
-    "Locations/Larimar.md",
     "Images/Concepts/cyberprod_Morning_at_miners_city_by_AlexWild.jpg",
     "Images/Concepts/Coastal_Trading_Outpost_by_Hideyoshi.jpg",
     "Images/Concepts/Crash Site by Anarky Art.png",
     "Images/Concepts/Boundless Maelstrom Sector Map.png",
     "Images/Concepts/austriac female solider by Antonio Rizzatti.png",
-    "Images/Concepts/LuminousSorrow.png",
-    "README.md",
-    "LICENSE.md",
-    "Progress/Halcyon_6_Background_Vow.md",
-    "Templates/Character_Template.md",
-    "Support/inlineScripts/lists.sfile.md",
-    "Moves/Adventure/Aid_Your_Ally.md",
-    "Truths/Artificial_Intelligence.md",
-    "Templates/Progress_Template.md",
-    "Support/inlineScripts/starforged_progress.sfile.md",
-    "Support/inlineScripts/mythicgme.sfile.md"
+    "Images/Concepts/LuminousSorrow.png"
   ]
 }

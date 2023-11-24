@@ -8,7 +8,7 @@ Wits: 2
 Health: 5
 Spirit: 5
 Supply: 5
-Momentum: 2
+Momentum: 10
 Wealth: 0
 Wounded: ⬡
 Shaken: ⬡
@@ -22,15 +22,18 @@ XPSpent: 0
 Bonds_Progress: 0
 Bonds_TrackImage: "[[progress-track-0.svg]]"
 Bonds_XPEarned: 0
-Discoveries_Progress: 0
-Discoveries_TrackImage: "[[progress-track-0.svg]]"
+Discoveries_Progress: 3
+Discoveries_TrackImage: "[[progress-track-3.svg]]"
 Discoveries_XPEarned: 0
 Quests_Progress: 0
 Quests_TrackImage: "[[progress-track-0.svg]]"
 Quests_XPEarned: 0
 Label: halcyon
+Callsign: Highball
 ---
 # `=this.Name`
+
+#### (_`=this.Callsign`_)
 
 ![[Halcyon 6.png|200]]![[Tron-Identity.png|320]]
 
@@ -105,3 +108,4 @@ WHERE file.name != "Progress_Template"
 
 
 ![[Kinetic]]
+

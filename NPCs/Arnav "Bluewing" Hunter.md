@@ -4,6 +4,7 @@
 > **Initial Disposition:** Suspicious
 > **Revealed Aspect:** Dangerous, Selfish, Resourceful
 > **Role:** Engineer
+> **Location**: Larimar
 > **Goal:** Undermine a relationship
 
 ![[Arnav Hunter.png|220]]

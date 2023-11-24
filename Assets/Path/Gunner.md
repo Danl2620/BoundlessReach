@@ -3,7 +3,7 @@
 
 
 ## Abilities:
-- [ ] When you [Strike](Moves/combat/strike), choose one (before rolling).
+- [x] When you [Strike](Moves/combat/strike), choose one (before rolling).
 
  * Pin them down: Add +1 and take +1 momentum on a hit.
  * Make them hurt: Mark progress on a hit.
