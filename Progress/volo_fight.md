@@ -1,9 +1,9 @@
 ---
-Name: Arthir Badger
-Difficulty: Troublesome
-Progress: 12
+Name: Defeat Volo
+Difficulty: Dangerous
+Progress: 40
 tags: incomplete
-TrackImage "[[progress-track-12.svg]]""
+TrackImage: "[[progress-track-40.svg]]"
 ---
 
 # `=this.Name`

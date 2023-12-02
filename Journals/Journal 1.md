@@ -660,6 +660,8 @@ In the hangar there's a control terminal with a helpful AI.
 
 ### And that ends session 2!
 
+## Session 3
+
 Halcyon gathers information from the AI. Rolls a miss with a match.
 
 > [!oracle]- Pay the Price! **Result:** A trap or environmental circumstance forces you to work with the enemy
@@ -708,7 +710,7 @@ Ethin has signs of Nanite intrusion on his temples.
 
 > [!mechanics]- Zoya Wade's Momentum set to 10 out of 10.
 
-"Frostbite" is getting attcked the nanites and is losing his grip on reality.
+"Frostbite" is getting attacked the nanites and is losing his grip on reality.
 
 > [!oracle]- "What is Volo's status here?" Descriptor/Focus: Impaired Red Shirt
 > **Additional Details:** 
@@ -925,8 +927,149 @@ Volo is heavily armed on the bridge.
 
 ### And that's session 3!
 
+## Session 4
+
+> [!progress]- New Progress Clock Created: [[Clocks/Keeper_Arrives|Keeper_Arrives]], Total: 0 ![[progress-clock-4-0.svg|15]]
+> **Name:** Keeper Arrives
+> **Segments:** 4
+>![[progress-clock-4-0.svg|100]]
+> **Additional Details:** 
+
+Rowen and Rocky lead the way. An automated laser defense hits Rocky and opens a hole in his oxygen supply.
+
+> [!mechanics]+ Rowen Sedano's Supply set to 3 out of 5.
+> 
+
+> [!mechanics]- Rowen Sedano's Supply set to 4 out of 5.
+
+> [!progress]- New Name Here clock advanced
+> File Name: [[Boss_Bolo_senses_us]]
+>**Progress:** 6 out of 6 segments filled
+>![[progress-clock-6-6.svg|100]]
+> 
+> **Cause of Advance:**
+> 
+>CLOCK IS FULL!
+
+> [!progress]- Volo's Backup clock advanced
+> File Name: [[volo_backup]]
+>**Progress:** 1 out of 4 segments filled
+>![[progress-clock-4-1.svg|100]]
+> 
+> **Cause of Advance:**
+
+> [!progress]- Keeper Arrives clock advanced
+> File Name: [[Keeper_Arrives]]
+>**Progress:** 1 out of 4 segments filled
+>![[progress-clock-4-1.svg|100]]
+> 
+> **Cause of Advance:**
+
+> [!mechanics]+ Zoya Wade burned their momentum!
+> This changed the result to: 
+> 
+> Momentum Max: 10
+> Momentum Reset: 2
+
+> [!mechanics]- Zoya Wade's Momentum set to 4 out of 10.
+
+Volo and his 3 goons, 2 of whom are wounded.
+
+> [!progress]- Keeper Arrives clock advanced
+> File Name: [[Keeper_Arrives]]
+>**Progress:** 2 out of 4 segments filled
+>![[progress-clock-4-2.svg|100]]
+> 
+> **Cause of Advance:**
+
+> [!progress]- Volo's Backup clock advanced
+> File Name: [[volo_backup]]
+>**Progress:** 2 out of 4 segments filled
+>![[progress-clock-4-2.svg|100]]
+> 
+> **Cause of Advance:**
+
+> [!progress]- New Progress Track Created: [[Progress/volo_fight|volo_fight]], Total: 0 ![[progress-box-4.svg|15]]
+> **Name:** Defeat Volo
+> **Difficulty:** Dangerous
+> **Additional Details:** 
+
+Volo the Boss
+
+Augmented, Imposing, Large, Swaggering
+Threatening
+Pirate
+Build a Home, Travel to a Place -- 
 
 
+> [!mechanics]- Rowen Sedano's Momentum set to 10 out of 10.
+
+> [!progress]- Defeat Volo, 3 Progess Marked (Total: 6 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/volo_fight]], Difficulty: Dangerous
+> 3 progress marked or 24 ticks for a total of 6 full boxes or 24 ticks
+> 
+> ![[progress-track-24.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Defeat Volo, 2 Progess Marked (Total: 10 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/volo_fight]], Difficulty: Dangerous
+> 2 progress marked or 16 ticks for a total of 10 full boxes or 40 ticks
+> 
+> ![[progress-track-40.svg|350]]
+> 
+> Milestone: 
+
+> [!mechanics]- Rowen Sedano's Momentum set to 10 out of 10.
+
+> [!progress]- Keeper Arrives clock advanced
+> File Name: [[Keeper_Arrives]]
+>**Progress:** 3 out of 4 segments filled
+>![[progress-clock-4-3.svg|100]]
+> 
+> **Cause of Advance:**
+
+> [!progress]- Volo's Backup clock advanced
+> File Name: [[volo_backup]]
+>**Progress:** 3 out of 4 segments filled
+>![[progress-clock-4-3.svg|100]]
+> 
+> **Cause of Advance:**
+
+
+bird and 13 pieces of loot in the vault
+
+> [!progress]- Volo's Backup clock advanced
+> File Name: [[volo_backup]]
+>**Progress:** 4 out of 4 segments filled
+>![[progress-clock-4-4.svg|100]]
+> 
+> **Cause of Advance:**
+> 
+>CLOCK IS FULL!
+
+Volo's backup is here!
+
+> [!progress]- These Violent Delights Have Violent Ends, 1 Progess Marked (Total: 0 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Halcyon_6_Background_Vow]], Difficulty: Epic
+> 1 progress marked or 1 ticks for a total of 0 full boxes or 1 ticks
+> 
+> ![[progress-track-1.svg|350]]
+> 
+> Milestone: 
+
+> [!mechanics]- Zoya Wade's Momentum set to 5 out of 10.
+
+> [!mechanics]- Halcyon 6's Momentum set to 10 out of 10.
+
+
+> [!progress]- Arthir Badger, 1 Progess Marked (Total: 3 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Arthir_Badger]], Difficulty: Troublesome
+> 1 progress marked or 12 ticks for a total of 3 full boxes or 12 ticks
+> 
+> ![[progress-track-12.svg|350]]
+> 
+> Milestone: 
 
 
 

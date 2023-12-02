@@ -1,12 +1,12 @@
 ---
 Name: These Violent Delights Have Violent Ends
 Difficulty: Epic
-Progress: 0
+Progress: 1
 tags:
   - incomplete
   - background
   - halcyon
-TrackImage: "[[progress-track-0.svg]]"
+TrackImage: "[[progress-track-1.svg]]"
 Character: Halcyon
 ---
 

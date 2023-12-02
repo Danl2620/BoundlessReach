@@ -1,9 +1,9 @@
 ---
 Name: New Name Here
 Segments: 6
-Progress: 5
-tags: incomplete
-ClockImage: "[[progress-clock-6-5.svg]]"
+Progress: 6
+tags: complete
+ClockImage: "[[progress-clock-6-6.svg]]"
 ---
 
 # `=this.Name`

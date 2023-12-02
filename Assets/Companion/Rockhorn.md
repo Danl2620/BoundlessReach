@@ -4,7 +4,7 @@ Max: 5
 ---
 # Rockhorn
 ### Companion
-### Name:
+### Name: "Rocky"
 <hr>
 
 ## Abilities:

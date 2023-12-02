@@ -6,6 +6,7 @@
       {
         "id": "65ccc2b772b9930c",
         "type": "tabs",
+        "dimension": 20.551378446115287,
         "children": [
           {
             "id": "4cf9ca683ffe016a",
@@ -25,14 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Halcyon_6.md",
+                "file": "Journals/Background.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "569e6ed48df4f782",
+            "id": "7e6308c5e07b8207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3d656dde7746eddd",
+        "type": "tabs",
+        "dimension": 18.462823725981618,
+        "children": [
+          {
+            "id": "4be9f19ba66815a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,12 +63,31 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "ecc7d21ceb9b2bea",
+        "type": "tabs",
+        "dimension": 26.023391812865498,
+        "children": [
+          {
+            "id": "8441cfa5114054c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Halcyon_6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       },
       {
         "id": "23d6f8cc661bad8a",
         "type": "tabs",
+        "dimension": 34.962406015037594,
         "children": [
           {
             "id": "8152f10edd2b16ce",
@@ -57,6 +96,30 @@
               "type": "markdown",
               "state": {
                 "file": "Journals/Journal 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e667931b01b9fe60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4aedd821085c5c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress/Arthir_Badger.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +185,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 319.5,
+    "collapsed": true
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -196,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "Journals/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "Journals/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Journal 1.md"
+                "file": "Journals/Summary.md"
               }
             }
           },
@@ -264,38 +329,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8152f10edd2b16ce",
+  "active": "e667931b01b9fe60",
   "lastOpenFiles": [
-    "Clocks/volo_backup.md",
+    "Characters/Zoya_Wade.md",
     "Characters/Halcyon_6.md",
-    "Journals/Journal 1.md",
     "Characters/Rowen_Sedano.md",
+    "Journals/Summary.md",
+    "Journals/Journal 1.md",
+    "README.md",
+    "Progress/Halcyon_6_Background_Vow.md",
+    "Progress/Rowen_Sedano_Background_Vow.md",
+    "Progress/Zoya_Background_Vow.md",
+    "Progress/Resolve_Ghost_Ship.md",
+    "Progress/Arthir_Badger.md",
+    "Progress/volo_fight.md",
+    "Assets/Companion/Rockhorn.md",
+    "Clocks/Keeper_Arrives.md",
+    "Journals/Background.md",
     "NPCs/Arnav \"Bluewing\" Hunter.md",
+    "Images/Concepts/zrd_51_by_tituslunter-d5xq1n2.jpg",
+    "Images/Concepts/Yacht on Drowned Coast by Alex Ries.jpg",
+    "Images/Concepts/Tron-Identity.png",
+    "Images/Concepts/space_frontier_outpost_8_by_thomashauser_dee4hil-fullview.jpg",
+    "Images/Concepts/sflogo3.webp",
+    "Images/Concepts/sci_fi_outpost_07_by_polish3d_debvg0z-fullview.jpg",
+    "Images/Concepts/LuminousSorrow.png",
+    "Images/Concepts/leviathan-by-marcel-deneuve-v1.jpeg",
+    "Images/Concepts/Layout_01_by_saejinoh_cropped.png",
+    "Journals/Untitled.md",
+    "Clocks/volo_backup.md",
     "Journals/Factions.md",
     "Clocks/Derelect_Core_Meltdown.md",
     "Moves/Adventure/Check_Your_Gear.md",
     "Locations/Aphelion.md",
-    "Characters/Zoya_Wade.md",
     "Assets/Command_Vehicle/Starship.md",
     "Assets/Support_Vehicle/Shuttle.md",
     "Assets/Support_Vehicle/Service_Pod.md",
     "Assets/Support_Vehicle/Skiff.md",
-    "Progress/Arthir_Badger.md",
-    "Clocks/Boss_Bolo_senses_us.md",
-    "Moves/Adventure/Aid_Your_Ally.md",
-    "Locations/Larimar.md",
-    "Moves/Adventure/Face_Danger.md",
-    "Moves/Recover/Repair.md",
-    "Oracles/Creatures/Creatures_First_Look.md",
-    "Progress/Find_the_Derelict.md",
-    "Progress/Resolve_Ghost_Ship.md",
-    "Progress/Amorphous_Creature.md",
-    "Moves/Legacy/Advance.md",
-    "Oracles/Planets/Furnace/Planets_Furnace_Atmosphere.md",
     "Characters/Zoya_Wade.mediawiki",
     "Characters/Zoya_Wade.html",
     "Images/Concepts/drilling_rig_by_cyberkite_ddnl868-fullview.jpg",
@@ -306,15 +380,6 @@
     "gh-pages/overrides/partials/post-list.html",
     "gh-pages/overrides/partials/meta.html",
     "gh-pages/overrides/partials/css_class.html",
-    "gh-pages/overrides/partials/content.html",
-    "Images/Concepts/Arnav Hunter.png",
-    "Images/Concepts/zrd_51_by_tituslunter-d5xq1n2.jpg",
-    "Images/Concepts/Layout_01_by_saejinoh_cropped.png",
-    "Images/Concepts/cyberprod_Morning_at_miners_city_by_AlexWild.jpg",
-    "Images/Concepts/Coastal_Trading_Outpost_by_Hideyoshi.jpg",
-    "Images/Concepts/Crash Site by Anarky Art.png",
-    "Images/Concepts/Boundless Maelstrom Sector Map.png",
-    "Images/Concepts/austriac female solider by Antonio Rizzatti.png",
-    "Images/Concepts/LuminousSorrow.png"
+    "gh-pages/overrides/partials/content.html"
   ]
 }
