@@ -18,184 +18,45 @@ Once more back in to the drift.
 
 Back on track, the "Sorrow" emerges from the drift at the desired waypoint.
 
-Next waypoint plotted, off they go...
+As they emerge the scanners ping an anomaly. An amorphous elemental squid creature flies at the Luminous Sorrow and drags one of its spiky tentacles along the hull, leaving a gash.
 
-As they emerge at the next waypoint the scanners ping an anomaly.
+Rowen, scrambling at the weapons statoins, attempts to utilize a electrical shock point defense weapon to zap the creature. The shock doesn't appear to phase the creature. It connects with the hull again using it's spiky tentacle.
 
-> face peril Result: Horrific lifeform that feeds on terror and fear
-> Creature: Form: Amorphous / elemental (Space)
+Zoya at the controls takes evasive action. The ship spins off to the left, but the creature is faster. It swipes the ship with spikes and leaves another gash in the hull. 
 
-An amorphous elemental squid creature flies at the Luminous Sorrow and drags one of its spiky tentacles along the hull, leaving a gash.
+Rowen uses the shock defense again and stuns the creature so it temporarily pulls back. However, in the process the spiky tentacle rips off the Luminous Sorrow's long range antenna. We won't be able to communicate with anyone more than a few waypoints distant.
 
-Rowen attempts to utilize a electrical shock defense weapon to zap the creature off of us.
+"Rowen, you got this guy, zap him!", says Halcyon as Rowen lines up another point zap with the creature reaching out to the "Sorrow". There's an audible sizzling noise and the operating lights dim imperceptibly as the point defense shocks the squid's tentacle. It pulls back.
 
-Rowen Sedano Enter the Fray: Edge + 0
+Zoya spins the ship around and applies full throttle to escape the creatures grasp, but the evasive maneuvering has led us right in to an undetected asteroid field. In the maneuver, the data disc with the location of "Serein" fall along the length of the ship and shatters at the far end.
 
-But the shock doesn't appear to phase the creature when it next connects with the hull using it's spiky tentacle.
+Halcyon at the navigation controls quickly scans the field and points out a possible route through that could split us from the creature. Following the new course, Zoya pilots the ship through the asteroids and away from the creature.
 
-Zoya takes evasive action.
+Just as Zoya begins spinning up the Eidolon drive to jump, the creature zips through the asteroids and appears right next to us.
 
-Zoya Wade React Under Fire: Wits +
+"Rowen it's reaching out again, I'll send over hull location!", Halcyon shouts.
 
-The ship spins off to the left, but the creature is faster. It swipes the ship with spikes and does 1 integrity damage. Rowen uses the shock defense again.
+Rowen pulls the trigger but the creature seems to anticipate the point defense and grabs another spot and spikes the hull.
 
-Rowen Sedano Clash: Iron + 0
+Zoya spins the ship away and guns it but the amorphous creature is supernaturally fast. It zips along and grabs on to our ship, attaching itself. Zoya spins and flips the ship end from end but the creature has a firm grip. The point defenses have overheated so Rowen must wait a moment to use them again.
 
-The zap stuns the creature so it temporarily pulls back.
+Zoya, seeing the creature has stopped attacking the ship, decides to jump to the drift. _Maybe the creature won't survive in the drift_, she thinks to herself.
 
-Escape the creature, 1 Progess Marked (Total: 3 ))
+Arriving at the next waypoint, Halcyon notices a life support alert flashing on the operations panel. There's a foreign gas being introduced into the oxygen recycler. He jumps out of his webbing and investigates -- the creature has pierced a stretch of life support plumbing and injected something. Halcyon moves quickly  to patch the system.
 
-However, in the process the spiky tentacle rips off the Luminous Sorrow's long range antenna. We won't be able to communicate with anyone more than a few waypoints distant.
+With the patch holding, he recycles the scrubbers and purges the toxin from the atmosphere.
 
-Pay the Price! **Result:** You lose communication with someone
+At that point Halcyon notice a flicker of psionic chatter from the creature. _Can I talk to this thing?_, he thinks. _Seems like it..._ Halcyon engages the creature in psionic conversation. It becomes apparent that the creature is confused and thinks the "Sorrow" is a space whale full of tasty space whale blubber. Halcyon informs the creature of it's unfortunate misconception. The creature slinks away into the void of space.
 
-Halcyon cheers Rowen on.
+Zoya jumps the "Sorrow" back in to the drift. We emerge in a waypoint off course.
 
-Halcyon 6 Secure an Advantage: Heart + 0
+"What the fuck, this is some bullshit. We barely survive that supernaturally fast squid thing only to wind up in uncharted space", Rowen exclaims as he unhooks himself from the webbing and floats off aftwards. "FUCK!!!"
 
-Halcyon's aid gives Rowen a +2 to momentum.
+Halcyon unhooks himself and heads back towards Rowen. "I got this", he says.
 
-Rowen Sedano's Momentum set to 4 out of 10.
+Halcyon huddles with Rowen. After a minute Rowen nods vigorously and returns to his station. "Sorry, Zoya. This mission isn't what I expected but I think we're getting close and I'm ready for the next step."
 
-Rowen shocks the creature again.
-
-Rowen Sedano Clash: Iron + 0
-
-The creature pulls back...
-
-Escape the creature, 1 Progess Marked (Total: 6 ))
-
-But the evasive maneuvering has led us right in to an asteroid field.
-
-Pay the Price! **Result:** The environment or terrain introduces a new hazard
-
-Halcyon quickly scans the field and points out a possible route through that could split us from the creature.
-
-Halcyon 6 Aid Your Ally, Secure an Advantage: Heart + 0
-
-Zoya Wade's Momentum set to 4 out of 10.
-
-Halcyon's idea gives Zoya a +1 for next move.
-
-Zoya Wade React Under Fire: Wits + 1
-
-Zoya pilots the ship through the asteroids and away from the creature.
-
-Zoya Wade's Momentum set to 5 out of 10.
-
-Zoya attempts to flee the encounter entirely,
-
-Zoya Wade Gain Ground: Wits + 0
-
-but the creature zips through the asteroids and appears right next to us.
-
-Pay the Price! **Result:** Something of value is lost or destroyed
-
-In the maneuver, the thumb drive with the the coordinates to the newly discovered planet fall along the length of the ship and shatters at the bottom. The data is lost!
-
-Halcyon helps Rowen with some pep talk.
-
-Halcyon 6 Secure an Advantage: Heart + 0
-
-Rowen and gets a +1 and attempts to zap the creature again.
-
-Rowen Sedano Clash: Iron + 1
-
-But to no avail...
-
-Pay the Price! **Result:** You create an opportunity for an enemy
-
-The creature attacks again and damages our ship. We try one last ditch effort to lose the creature among the asteroids.
-
-Escape the creature, Roll to Finish: Weak Hit
-
-Pay the Price! **Result:** The enemy exploits your weakness
-
-But the amorphous creature zips along and grabs on to our ship, attaching itself. We can't rid ourselves of it. It stopped attacking us for the moment, so we'll continue our journey.
-
-Zoya Wade Undertake an Expedition: Wits + 0
-
-New Name Here, 1 Progess Marked (Total: 6 ))
-
-face peril Result: Contagion or illness threatens to take hold
-
-Before long, we notice that the creature has pierced some of our life support plumbing and injected some toxic gas. Halcyon, using resolve, attempts to patch the system.
-
-Halcyon 6 Face Danger: Heart + 0
-
-Halcyon 6's Momentum set to 4 out of 10.
-
-Halcyon is successful and is able to get the life support de-toxified. Halcyon then attempts to compel the creature to leave us alone by reasoning with it psionically.
-
-Halcyon 6 Compel: Heart + 0
-
-Amazingly, that works. The creature accepts the friendship offer extended by Halcyon and decides to let us go on our way.
-
-Halcyon 6's Momentum set to 5 out of 10.
-
-Zoya jumps us in to the drift.
-
-Zoya Wade Undertake an Expedition: Wits + 0
-
-The jump puts us out in the wrong spot. We've made no progress to our destination.
-
-Pay the Price! **Result:** You are tempted to abandon a vow
-
-Rowen has a minor panic attack over the missteps and attacks and decides the job isn't worth it any more. Halcyon gives a pep talk because Halcyon really wants to do what he can for the androids on the derelict.
-
-Halcyon 6 Secure an Advantage: Heart + 0
-
-Rowen accepts Halcyon hype and gets back in the game.
-
-Rowen Sedano's Momentum set to 6 out of 10.
-
-The stress has gotten to Rowen but he rallies and has renewed resolve.
-
-Rowen Sedano Endure Stress: Spirit + 1
-
-Rowen Sedano's Spirit set to 5 out of 5.
-
-Zoya jumps the ship in to the drift.
-
-Zoya Wade Undertake an Expedition: Wits + 0
-
-New Name Here, 1 Progess Marked (Total: 8 )
-
-We face a new peril at this waypoint.
-
-face peril Result: Infestation is revealed
-
-### 
-
-End of session 1!
-
-## 
-
-SESSION 2
-
-Halcyon 6's Discoveries, 2 Progess Marked (Total: 0)
-
-Zoya Wade's Discoveries, 2 Progess Marked (Total: 0)
-
-Rowen Sedano's Discoveries, 2 Progess Marked (Total: 0)
-
-Battle Stations!
-
-- ✴  Command: Coordinate, make plans, provide motivation or comfort
-- ✴  Countermeasures: Deploy electronic countermeasures, defend  
-    against incoming missiles
-- ✴  Damage Control: Resist damage, suppress fires, patch hull breaches, fix systems, tend to mechanical companions
-- ✴  Engineering: Tune engines, manage power, bypass failing systems
-- ✴  Escort: Operate a support vehicle
-- ✴  Gunnery: Energize or ready weapons, lock on targets, fire weapons
-- ✴  Infantry: Repel boarders, launch raids against enemy vessels
-- ✴  Medical: Tend to the wounded
-- ✴  Piloting: Maneuver to get in position, line up a shot, evade incoming  
-    fire, avoid obstacles, pursue or escape targets
-- ✴  Sensors: Survey surroundings, scan foes, track and identify targets, plot navigation paths
-- ✴  Systems: Manage communications, jam or hack enemy systems, defend against electronic threats
-
-What is the nature of this infestation? Descriptor/Focus: Combative Water
+Zoya jumps the ship in to the drift. The "Luminous Sorrow" emerges at a star system. Before they can initiate a scan Halcyon notices a bio contamination warning referring to the "Sorrow"'s freshwater supply.
 
 Our last supply stop gave us some contaminated water. Now we need to repair/upgrade our water filtration system.
 

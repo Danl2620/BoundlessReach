@@ -44,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3d656dde7746eddd",
@@ -261,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Halcyon_6.md",
+                "file": "Journals/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Halcyon_6.md",
+                "file": "Journals/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Halcyon_6.md"
+                "file": "Journals/Summary.md"
               }
             }
           },
@@ -333,14 +334,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8441cfa5114054c3",
+  "active": "e667931b01b9fe60",
   "lastOpenFiles": [
+    "README.md",
+    "Journals/Background.md",
     "Journals/Summary.md",
-    "Characters/Zoya_Wade.md",
     "Characters/Halcyon_6.md",
+    "Characters/Zoya_Wade.md",
     "Characters/Rowen_Sedano.md",
     "Journals/Journal 1.md",
-    "README.md",
     "Progress/Halcyon_6_Background_Vow.md",
     "Progress/Rowen_Sedano_Background_Vow.md",
     "Progress/Zoya_Background_Vow.md",
@@ -349,7 +351,6 @@
     "Progress/volo_fight.md",
     "Assets/Companion/Rockhorn.md",
     "Clocks/Keeper_Arrives.md",
-    "Journals/Background.md",
     "NPCs/Arnav \"Bluewing\" Hunter.md",
     "Images/Concepts/zrd_51_by_tituslunter-d5xq1n2.jpg",
     "Images/Concepts/Yacht on Drowned Coast by Alex Ries.jpg",
