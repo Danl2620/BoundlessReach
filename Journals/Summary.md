@@ -1,8 +1,6 @@
-> Inciting Incident: Rowen gets called for a job. A group of Infinite Accord scavengers encountered a capital ship wreck in the drift and upon boarding it were attacked by androids. No life forms were detected aboard. They need Rowen's help to hunt down whatever is controlling/programming them and make the wreck safe.
-> 
-> Rowen rounds up Zoya and Halcyon to help out. Zoya brings the Luminous Sorrow (see above) for transport.
+### The Luminous Sorrow
 
-The Luminous Sorrow hangs in space. At the piloting controls is Zoya "Straggler" Wade, owner of the ship. She traded an antique statuette of her clan founder for the ship.
+The "Luminous Sorrow" hangs in space. At the piloting controls is Zoya "Straggler" Wade, owner of the ship. She traded an antique statuette of her clan founder for the ship.
 
 Halcyon 6, an orphan android on a mission to free all sentient beings, synthetic or not, sits at the command desk and plots a course through the drift.
 
@@ -60,276 +58,88 @@ Zoya jumps the ship in to the drift. The "Luminous Sorrow" emerges at a star sys
 
 Our last supply stop gave us some contaminated water. Now we need to repair/upgrade our water filtration system.
 
-Pay the Price! **Result:** A foe thought defeated returns
+Upon scanning the system, the crew discovers a orbital colony, a large terraforming project, and a ship that matches a known signature: Boss "Clockstopper" Volo's ship.
 
-Halcyon's tracker reappears in the "Controller 2".
+Volo is a unsavory drift pirate that Halcyon has run across many times before. There's no indication that Volo has picked up on the "Sorrow" emerging from the drift.
 
-NPC: Boss "Clockstopper" Volo
+Contacting the orbital colony, we discover it's named "Aeternitas". The "Sorrow" docks and we are able to flush our water systems when Halcyon successfully barters for a full load of water.
 
-Does Volo pick us up? (Likely) Result: 79, No
+Entering the colony the crew visits a local tavern and they converse with the locals to find some information. They discover that Volo is a known entity here and the colony has a mildly positive disposition towards him for trader with them. They tell Zoya that they also know about the derelict and that Volo has traveled to it. They orbit an uninhabited planetoid.
 
-New Progress Clock Created: [Boss_Volo_senses_us](app://obsidian.md/Boss_Volo_senses_us), Total: 0)
+Halcyon can't abide hearing anything positive said about Volo, so he chats with the locals further and regales them with stories of his encounters with Volo and many of Volo's exploits that are famous elsewhere in the Outlands.
 
-Zoya Wade Gather Information: Wits + 0
+In the tavern is on Arthir "Badger" Malek, a unkempt beast of a man who works as a loadmaster at the docks. Arthir is swayed by Halcyon's stories and tells the crew that he has information about Volo's ship and has seen it up close.
 
-Zoya Wade's Momentum set to 7 out of 10.
+After some discussion with Arthir the crew refuels and sets out to meet up with the derelict (and Volo). Upon arriving they find both but are surprised to see a cloud of nanites emerge from the derelict and attack Volo's ship.
 
-What else do we find at this waypoint? Result: Extraordinary technology manipulating nature
+The crew suits up and Halcyon and Zoya navigate the 3 across the gap to enter an airlock on the derelict. Emerging from the airlock they find a barricaded corridor and Kasra "Nails" Kade, who reveals himself to be a disenchanted member of Volo's crew. Kasra doesn't want to impede the crew but also has no interest in joining them. He wanders on.
 
-Zoya Wade's Discoveries, 1 Progess Marked (Total: 0)
+The crew moves on. A plasma fire arcs out of a wall, threatening to burn them. Halcyon dodges at the last minute.
 
-Rowen Sedano's Discoveries, 1 Progess Marked (Total: 0)
+The crew enters the ship's main hangar. There's a control terminal with a helpful AI and not much else here. Halcyon accesses the terminal and discovers that the ships core has been restarted and rigged to melt down.
 
-Halcyon 6's Discoveries, 1 Progess Marked (Total: 0)
+The crew sets off to find the core. Along the way they come across yet another of Volo's crew, Ethin "Frostbite" Nealson. Ethin, however, is not coherent and Zoya notices he has the telltale sign of nanite intrusion on his temples.  Talking to "Frostbite" Zoya finds out he's getting attacked by nanites and is losing his grip on reality.
 
-We stumble upon a terraforming operation.
+"What is Volo's status here?". No response. 
 
-New Name Here clock advanced
+"What can you tell us about the rogue AI?" Zoya demans.
 
-Settlement: Aeternitas
-
-Halcyon barters for water with Aeternitas and makes a strong hit.
-
-Halcyon 6's Momentum set to 6 out of 10.
-
-New Name Here clock advanced
-
-> ,No value. Note **Progress/Find_the_derelict** not found.
-
-, Roll to Finish: Miss
-
-1d10 Sum: 3
-
-> ,No value. Note **Progress/Find_the_derelict** not found.
-
-, 3 Progess Ticks Cleared (Total: )
-
-> File Name: [Progress/Find_the_derelict](app://obsidian.md/Progress/Find_the_derelict), Difficulty: > ,No value. Note **Progress/Find_the_derelict** not found.
-
-> 3 progress ticks cleared bringing progress down to NaN full boxes or NaN ticks
-> 
-> "progress-track-NaN.svg" is not created yet. Click to create.
-> 
-> Milestone:
-
-Volo is near the derelict. They both orbit an unhabited planetoid.
-
-New Name Here clock advanced
-
-Halcyon rolls "aid your ally". 9 vs 8 and 5.
-
-Zoya Wade's Momentum set to 9 out of 10.
-
-Zoya Wade Gather Information: Wits + 1
-
-Zoya Wade's Momentum set to 10 out of 10.
-
-Aeternitas has a good relationship with Volo.
-
-Halcyon attempts to convince them that Volo isn't so great.
-
-Halcyon 6's Momentum set to 7 out of 10.
-
-NPC: Arthir "Badger" Malek
-
-Halcyon makes a connection with Arthir. Arthir has access to data about Volo's ship and has seen it up close.
-
-New Progress Track Created: [[Arthir_Badger]], Total: 0 )
-
-Zoya Wade Set a Course: Supply + 1
-
-New Name Here clock advanced
-
-1d100 Sum: 18
-
-1d100 Sum: 19
-
-1d100 Sum: 91
-
-Unexpected weapons or ability. Nanites. Grey Goo.
-
-Rowen faces danger: weak hit.
-
-Rowen Sedano's Supply set to 4 out of 5.
-
-New Name Here clock advanced
-
-Halcyon aids an ally for a weak hit, +1 to Zoya to secure an advantage.
-
-Zoya Wade Secure an Advantage: Wits + 1
-
-What is the first zone in the derelict Result: Corridor
-
-next area Result: Makeshift barricade
-
-next area Result: Encounter with a friendly survivor, explorer, or denizen
-
-NPC: Kasra "Nails" Kade
-
-Halcyon attempts to compel (charm pacify) Nails. He refuses.
-
-Pay the Price! **Result:** Things are worse than they seem
-
-how are they worse? Result: Hazardous environmental change
-
-A plasma fire arcs out of a wall, threatening to burn us.
-
-Halcyon 6 Face Danger: Heart + 0
-
-Halcyon 6's Momentum set to 8 out of 10.
-
-1d100 Sum: 68
-
-1d100 Sum: 61
-
-1d100 Sum: 21
-
-1d100 Sum: 27
-
-In the hangar there's a control terminal with a helpful AI.
-
-Is there a usable ship in this hangar? (Unlikely) Result: 90, No
-
-### 
-
-And that ends session 2!
-
-Halcyon gathers information from the AI. Rolls a miss with a match.
-
-Pay the Price! **Result:** A trap or environmental circumstance forces you to work with the enemy
-
-New Progress Clock Created: [Derelect_Core_Meltdown](app://obsidian.md/Clocks/Derelect_Core_Meltdown), Total: 0)
-
-1d100 Sum: 97
-
-1d100 Sum: 90
-
-1d100 Sum: 72
-
-1d100 Sum: 34
-
-NPC: Ethin "Frostbite" Nealson
-
-Ethin has signs of Nanite intrusion on his temples.
-
-Zoya Wade Gather Information: Wits + 0
-
-Zoya Wade's Momentum set to 10 out of 10.
-
-"Frostbite" is getting attcked the nanites and is losing his grip on reality.
-
-"What is Volo's status here?" Descriptor/Focus: Impaired Red Shirt
-
-"What can you tell us about the AI?" Descriptor/Focus: Erratic Environment
-
-1d100 Sum: 68
-
-1d100 Sum: 49
-
-1d100 Sum: 20
-
-1d100 Sum: 85
-
-1d100 Sum: 17
-
-1d100 Sum: 19
-
-1d100 Sum: 73
-
-Warp Core Breach clock advanced
-
-1d100 Sum: 67
-
-1d100 Sum: 6
-
-1d100 Sum: 61
-
-1d100 Sum: 4
-
-1d3 Sum: 2
+"It's gonna burn this hulk down" Ethin mumbles.
 
 A corrosive leak shoots out and _almost_ his Halcyon but with his steely nerves he dodges it.
 
-1d100 Sum: 47
+"What the hell? I think he's talking about the core meltdown, we have to hurry" Zoya says.
 
-"Did Volo install this jerry-rigged equipment around the core?" (Unlikely) Result: 88, No with a MATCH!
+The crew reaches the core and sees that it's surrounded by strange jerry-rigged equipment and is glowing a frightening color. Rowen moves in to action to try and dismantled some of the surrounded equipment. Halcyon looks intently and guides him.
 
-Warp Core Breach clock advanced
+Suddenly over the crew comms they hear "Who are you? Stop interfering with my work" in a neutral voice.
 
-Rowen Sedano's Momentum set to 8 out of 10.
+Halcyon motions to Zoya and Rowen to stay quiet. 
 
-Halcyon aids Rowen in trying to dismantle the equipment using iron. He rolls a miss.
+-- Halcyon sweet talks the AI and convinces the AI to space Volo and his crew and join with Halcyon.
 
-Pay the Price! **Result:** A tactical advantage is lost
+The AI informs us that it was considering doing something like that to Volo but that, for one, the ship is already in vacuum, and for two, the AI considers Volo to be an innocent nuisance.
 
-The AI takes notice of us.
+Thanks to Halcyon's intervention, however, the AI will power down the core and avoid a meltdown.
 
-1d100 Sum: 32
+### Larimar
 
-The AI's initial disposition is "indifferent".
+Rowen sits down at the table already occupied by Arnav "Bluewing" Hunter at the seaside cafe.
 
-AI: "Who are you? Stop interfering with my work."
+"Find the carved wooden bird -- the Galaxy Bird -- from the bridge and you can keep as much salvage as you can carry." says Arnav. "Note there's a rogue AI on board that's been causing troubles. That's why we want you, monster hunter."
 
-Warp Core Breach clock advanced
+### The Derelict
 
-Halcyon sweet talks the AI will we have its attention. Strong hit.
+With the core shutdown the derelict reverts to emergency lighting only. Much of the lighting has burned out or is intermittent. The ship is dark with flickering emergency lights along the corridors. The crew must use headlamps to navigate.
 
-Halcyon 6's Momentum set to 9 out of 10.
+The AI tell Halcyon that it's only "gone rogue" to survive. Scavengers boarded long ago and shattered some xenomorph containment vessels. AI had to take over to protect itself.
 
-Halcyon convinces the AI to space Volo and his crew and join with Halcyon.
+The colonizers collected the large insectoid creatures from the large planet in the same system before wiping them out to begin their terraforming project.
 
-"Has the AI already spaced Volo?" (Fifty-Fifty) Result: 100, No with a MATCH!
+With access to the ship AI, Halcyon determines that Volo is heavily armed and barricaded on the bridge. 
 
-"Why hasn't the AI spaced Volo?" Action/Theme: Falter Innocence
+"Knowing him, he's probably called for some backup", says Halcyon.
 
-Can Halcyon stop the meltdown now? Yes!
+The crew sets off for the bridge. Rowen and Rocky (the "Rockhorn") lead the way. As the turn a corner in a corridor an automated laser defense fires, hitting one of the oxygen hoses on Rocky's environmental suit.
 
-Warp Core Breach clock has ended with 3 segments filled
+Using the ship scanners, Halcyon lets the crew know that Volo is barricaded on the bridge with 3 of his crew, 2 of whom are already wounded.
 
-### 
+He also discovered that there is a large locked vault aft of the bridge where the bird artifact is likely stored.
 
-Flashback
+The 3 set up to attack the bridge in force. Rowen suggests that his sword, gun, and Rockhorn combo is probably the right force level to do the job. 
 
-1d100 Sum: 18
+The bridge has two entrances. Rowen readies his attack at one while Zoya posts up at the second.
 
-Rowen, taking the mission from "Bluewing": "Find the carved wooden bird -- the Galaxy Bird -- from the bridge and you can keep as much salvage as you can carry. Note there's a rogue AI on board that's been causing troubles. That's why we want you, monster hunter."
+Rowen blasts the door open and has Rocky run inside. Volo is caught off guard and his crew isn't much better prepared. In two smooth motions Rowen slashes one guard and shoots Volo in the shoulder. Volo falls to the ground and the remaining two guards throw up their hands.
 
-### 
+Arthir notifies Halcyon over comms that a Keeper has arrive in the system. Zoya lets the other two know that the Keeper will be bad news for her (and the "Sorrow").
 
-Back To Present
 
-1d100 Sum: 40
 
-1d100 Sum: 30
 
-"Is the derelict unpowered now?" (Likely) Result: 68, Yes
 
-1d100 Sum: 9
 
-1d100 Sum: 71
 
-"What does the message contain?" Descriptor/Focus: Tainted Explosion
 
-This is why the colonist from long ago didn't survive. Halcyon asks his AI self if the rogue AI came from that time -- the answer is: scavengers came along long ago and and broken containment on some xenomorphs (see below) and the AI has to follow suit and go rogue to protect itself.
 
-Creature: Form: Insectoid / exoskeletal (Interior)
 
-1d100 Sum: 84
-
-The colonizers collected these creatures before wiping them out before terraforming the planet.
-
-1d100 Sum: 74
-
-1d100 Sum: 5
-
-Halcyon 6's Momentum set to 10 out of 10.
-
-Volo is heavily armed on the bridge.
-
-"Is Volo able to call for backup?" (Fifty-Fifty) Result: 17, Yes
-
-New Progress Clock Created: [volo_backup](app://obsidian.md/Clocks/volo_backup), Total: 0 )
-
-### 
-
-And that's session 3!

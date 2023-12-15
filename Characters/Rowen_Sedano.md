@@ -25,9 +25,9 @@ Bonds_XPEarned: 0
 Discoveries_Progress: 3
 Discoveries_TrackImage: "[[progress-track-3.svg]]"
 Discoveries_XPEarned: 0
-Quests_Progress: 0
-Quests_TrackImage: "[[progress-track-0.svg]]"
-Quests_XPEarned: 0
+Quests_Progress: 4
+Quests_TrackImage: "[[progress-track-4.svg]]"
+Quests_XPEarned: 2
 Label: rowen
 Callsign: Shutdown
 ---

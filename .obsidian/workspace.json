@@ -6,27 +6,39 @@
       {
         "id": "65ccc2b772b9930c",
         "type": "tabs",
-        "dimension": 20.551378446115287,
+        "dimension": 37.02031602708803,
         "children": [
           {
-            "id": "4cf9ca683ffe016a",
+            "id": "8441cfa5114054c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Zoya_Wade.md",
+                "file": "Characters/Halcyon_6.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2828edf205955ac0",
+            "id": "4be9f19ba66815a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Background.md",
+                "file": "Characters/Rowen_Sedano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6297842ba51e5ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Zoya_Wade.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,55 +55,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eac6f063d49f5e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress/Resolve_Ghost_Ship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "3d656dde7746eddd",
-        "type": "tabs",
-        "dimension": 18.462823725981618,
-        "children": [
-          {
-            "id": "4be9f19ba66815a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Rowen_Sedano.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ecc7d21ceb9b2bea",
-        "type": "tabs",
-        "dimension": 26.023391812865498,
-        "children": [
-          {
-            "id": "8441cfa5114054c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Halcyon_6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 3
       },
       {
         "id": "23d6f8cc661bad8a",
         "type": "tabs",
-        "dimension": 34.962406015037594,
+        "dimension": 62.97968397291196,
         "children": [
           {
-            "id": "8152f10edd2b16ce",
+            "id": "25967f1ed368f872",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,18 +95,6 @@
               "type": "markdown",
               "state": {
                 "file": "Journals/Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4aedd821085c5c04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progress/Arthir_Badger.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,12 +137,12 @@
             }
           },
           {
-            "id": "b00f12bbac9b4987",
+            "id": "8152f10edd2b16ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Halcyon_6.md",
+                "file": "Progress/Amorphous_Creature.md",
                 "mode": "source",
                 "source": false
               }
@@ -245,8 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -337,17 +310,26 @@
   "active": "e667931b01b9fe60",
   "lastOpenFiles": [
     "README.md",
-    "Journals/Background.md",
-    "Journals/Summary.md",
-    "Characters/Halcyon_6.md",
+    "Journals/Journal 1.md",
     "Characters/Zoya_Wade.md",
     "Characters/Rowen_Sedano.md",
-    "Journals/Journal 1.md",
+    "Characters/Halcyon_6.md",
+    "Progress/Resolve_Ghost_Ship.md",
+    "Progress/Find_the_Derelict.md",
+    "Progress/Arthir_Badger.md",
+    "Progress/Arnav.md",
+    "Journals/Summary.md",
+    "Progress/Amorphous_Creature.md",
+    "Locations/Larimar.md",
+    "Locations/Aphelion.md",
+    "Locations/Erebus.md",
+    "Larimar.pdf",
+    "Zoya_Wade.pdf",
+    "Journals/Background.md",
+    "Background.pdf",
     "Progress/Halcyon_6_Background_Vow.md",
     "Progress/Rowen_Sedano_Background_Vow.md",
     "Progress/Zoya_Background_Vow.md",
-    "Progress/Resolve_Ghost_Ship.md",
-    "Progress/Arthir_Badger.md",
     "Progress/volo_fight.md",
     "Assets/Companion/Rockhorn.md",
     "Clocks/Keeper_Arrives.md",
@@ -365,12 +347,6 @@
     "Clocks/volo_backup.md",
     "Journals/Factions.md",
     "Clocks/Derelect_Core_Meltdown.md",
-    "Moves/Adventure/Check_Your_Gear.md",
-    "Locations/Aphelion.md",
-    "Assets/Command_Vehicle/Starship.md",
-    "Assets/Support_Vehicle/Shuttle.md",
-    "Assets/Support_Vehicle/Service_Pod.md",
-    "Assets/Support_Vehicle/Skiff.md",
     "Characters/Zoya_Wade.mediawiki",
     "Characters/Zoya_Wade.html",
     "Images/Concepts/drilling_rig_by_cyberkite_ddnl868-fullview.jpg",
@@ -378,9 +354,6 @@
     "gh-pages/docs/assets/css/custom_attributes.css",
     "gh-pages/docs/assets/css/admonition.css",
     "gh-pages/overrides/partials/source-file.html",
-    "gh-pages/overrides/partials/post-list.html",
-    "gh-pages/overrides/partials/meta.html",
-    "gh-pages/overrides/partials/css_class.html",
-    "gh-pages/overrides/partials/content.html"
+    "gh-pages/overrides/partials/post-list.html"
   ]
 }
