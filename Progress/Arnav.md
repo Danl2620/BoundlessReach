@@ -1,10 +1,10 @@
 ---
 Name: Arnav
 Difficulty: Formidable
-Progress: 0
+Progress: 4
 tags:
   - incomplete
-TrackImage: "[[progress-track-0.svg]]"
+TrackImage: "[[progress-track-4.svg]]"
 ---
 [[Arnav "Bluewing" Hunter]]
 # `=this.Name`

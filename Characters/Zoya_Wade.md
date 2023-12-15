@@ -9,7 +9,7 @@ Health: 5
 Spirit: 5
 Supply: 5
 Momentum: 5
-Wealth: 0
+Wealth: 1
 Wounded: ⬡
 Shaken: ⬡
 Unprepared: ⬡
@@ -104,3 +104,5 @@ WHERE file.name != "Progress_Template"
 ![[Sleuth]]
 
 ![[Starship]]
+
+![[Overseer]]

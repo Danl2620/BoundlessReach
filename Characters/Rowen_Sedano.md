@@ -9,7 +9,7 @@ Health: 5
 Spirit: 5
 Supply: 4
 Momentum: 10
-Wealth: 0
+Wealth: 1
 Wounded: ⬡
 Shaken: ⬡
 Unprepared: ⬡

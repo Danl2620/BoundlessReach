@@ -1168,6 +1168,53 @@ Volo's backup is here!
 > Milestone: 
 
 
+### Session 5
+
+Can we escape before the keeper arrives?
+
+Volo comes willingly.
+
+We grab 4 crates and the bird and walk out the airlock and over to the "Sorrow".
+
+> [!challenge-miss]- Zoya Wade Set a Course: Supply + 0
+> ![[d6-2-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-5-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-7-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-7-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]
+> ### Result: ![[outcome-miss.svg|50]] Miss
+
+> [!oracle]- Pay the Price! **Result:** You draw attention to yourself in an unwanted way
+> 
+> **Additional Details:** 
+
+> [!progress]- Arnav, 1 Progess Marked (Total: 1 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Arnav]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 1 full boxes or 4 ticks
+> 
+> ![[progress-track-4.svg|350]]
+> 
+> Milestone: 
+
+Volo is in the brig.
+
+> [!oracle]- NPC: Renette "Chimera" Baird
+> **First Look:** Full-lipped
+> **Initial Disposition:** Desperate
+> **Revealed Aspect:** Happy
+> **Role:** Financier
+> **Goal:** Build a better life
+
+Zoya is going to hand Volo over to Renette in exchange for part of the bounty and a favor to keep the Keepers away.
+
+> [!mechanics]- Rowen Sedano's Momentum set to 10 out of 10.
+
+> [!mechanics]- Zoya Wade's Wealth set to 1 out of 5.
+
+> [!mechanics]- Rowen Sedano's Wealth set to 1 out of 5.
+
+> [!mechanics]- Halcyon 6's Wealth set to 1 out of 5.
+
+We can take the remaining artifacts to an eccentric hermit on Aphelion.
+
+
 
 
 
