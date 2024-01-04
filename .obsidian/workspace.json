@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Zoya_Wade.md",
+                "file": "Journals/Background.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "23d6f8cc661bad8a",
@@ -119,18 +119,6 @@
               "type": "markdown",
               "state": {
                 "file": "Journals/Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d96e9f50bf318694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Aphelion.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Zoya_Wade.md",
+                "file": "Journals/Journal 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Zoya_Wade.md",
+                "file": "Journals/Journal 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Zoya_Wade.md"
+                "file": "Journals/Journal 1.md"
               }
             }
           },
@@ -330,15 +318,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6297842ba51e5ab2",
+  "active": "25967f1ed368f872",
   "lastOpenFiles": [
     "README.md",
+    "Journals/Journal 1.md",
+    "Journals/Background.md",
+    "Locations/Erebus.md",
     "Characters/Zoya_Wade.md",
+    "Progress/Zoya_Background_Vow.md",
+    "Locations/Aphelion.md",
+    "Journals/Factions.md",
     "Characters/Halcyon_6.md",
     "Assets/Command_Vehicle/Starship.md",
     "Characters/Rowen_Sedano.md",
-    "Journals/Journal 1.md",
-    "Locations/Aphelion.md",
     "Locations/Larimar.md",
     "Journals/Summary.md",
     "NPCs/Arnav \"Bluewing\" Hunter.md",
@@ -349,14 +341,11 @@
     "Progress/Find_the_Derelict.md",
     "Progress/Arthir_Badger.md",
     "Progress/Amorphous_Creature.md",
-    "Locations/Erebus.md",
     "Larimar.pdf",
     "Zoya_Wade.pdf",
-    "Journals/Background.md",
     "Background.pdf",
     "Progress/Halcyon_6_Background_Vow.md",
     "Progress/Rowen_Sedano_Background_Vow.md",
-    "Progress/Zoya_Background_Vow.md",
     "Progress/volo_fight.md",
     "Assets/Companion/Rockhorn.md",
     "Images/Concepts/zrd_51_by_tituslunter-d5xq1n2.jpg",
@@ -369,7 +358,6 @@
     "Images/Concepts/leviathan-by-marcel-deneuve-v1.jpeg",
     "Images/Concepts/Layout_01_by_saejinoh_cropped.png",
     "Journals/Untitled.md",
-    "Clocks/volo_backup.md",
     "Characters/Zoya_Wade.mediawiki",
     "Characters/Zoya_Wade.html",
     "Images/Concepts/drilling_rig_by_cyberkite_ddnl868-fullview.jpg",
