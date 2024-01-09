@@ -62,7 +62,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Arnav \"Bluewing\" Hunter.md",
+                "file": "NPCs/Arthir \"Badger\" Malek.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "47180496e1a533ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Larimar.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "23d6f8cc661bad8a",
@@ -118,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Summary.md",
+                "file": "NPCs/Arnav \"Bluewing\" Hunter.md",
                 "mode": "source",
                 "source": false
               }
@@ -320,20 +332,22 @@
   },
   "active": "25967f1ed368f872",
   "lastOpenFiles": [
-    "README.md",
+    "NPCs/Arthir \"Badger\" Malek.md",
     "Journals/Journal 1.md",
+    "NPCs/Renette \"Chimera\" Baird.md",
+    "Locations/Larimar.md",
+    "Locations/Aphelion.md",
+    "NPCs/Arnav \"Bluewing\" Hunter.md",
+    "README.md",
+    "Journals/Summary.md",
     "Journals/Background.md",
     "Locations/Erebus.md",
     "Characters/Zoya_Wade.md",
     "Progress/Zoya_Background_Vow.md",
-    "Locations/Aphelion.md",
     "Journals/Factions.md",
     "Characters/Halcyon_6.md",
     "Assets/Command_Vehicle/Starship.md",
     "Characters/Rowen_Sedano.md",
-    "Locations/Larimar.md",
-    "Journals/Summary.md",
-    "NPCs/Arnav \"Bluewing\" Hunter.md",
     "Progress/Arnav.md",
     "Clocks/Keeper_Arrives.md",
     "Oracles/Core/Core_Theme.md",
@@ -347,7 +361,6 @@
     "Progress/Halcyon_6_Background_Vow.md",
     "Progress/Rowen_Sedano_Background_Vow.md",
     "Progress/volo_fight.md",
-    "Assets/Companion/Rockhorn.md",
     "Images/Concepts/zrd_51_by_tituslunter-d5xq1n2.jpg",
     "Images/Concepts/Yacht on Drowned Coast by Alex Ries.jpg",
     "Images/Concepts/Tron-Identity.png",
@@ -357,7 +370,6 @@
     "Images/Concepts/LuminousSorrow.png",
     "Images/Concepts/leviathan-by-marcel-deneuve-v1.jpeg",
     "Images/Concepts/Layout_01_by_saejinoh_cropped.png",
-    "Journals/Untitled.md",
     "Characters/Zoya_Wade.mediawiki",
     "Characters/Zoya_Wade.html",
     "Images/Concepts/drilling_rig_by_cyberkite_ddnl868-fullview.jpg",

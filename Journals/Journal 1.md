@@ -1214,15 +1214,22 @@ Zoya is going to hand Volo over to Renette in exchange for part of the bounty an
 
 We can take the remaining artifacts to an eccentric hermit on Aphelion.
 
+### Adventure Crafter interlude
+
+> [!oracle]- NPC: Venri "Cypher" Paraz
+> **First Look:** Ruddy
+> **Initial Disposition:** Threatening
+> **Revealed Aspect:** Blunt
+> **Role:** Arms Dealer
+> **Goal:** Find an artifact
+
+> [!oracle]- NPC: Annora "Jenkins" Griffin
+> **First Look:** Burly
+> **Initial Disposition:** Brash
+> **Revealed Aspect:** Relaxed
+> **Role:** Pilgrim
+> **Goal:** Action/Theme - Defuse Improvement
 
 
-
-
-
-
-
-
-
-
-
+### Session 6
 
