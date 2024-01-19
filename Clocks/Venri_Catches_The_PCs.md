@@ -1,9 +1,9 @@
 ---
 Name: Venri catches up to the PCs
 Segments: 4
-Progress: 1
-tags: incomplete
-ClockImage: "[[progress-clock-4-1.svg]]"
+Progress: 4
+tags: complete
+ClockImage: "[[progress-clock-4-4.svg]]"
 ---
 
 # `=this.Name`

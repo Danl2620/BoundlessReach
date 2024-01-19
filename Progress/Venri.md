@@ -1,9 +1,9 @@
 ---
-Name: Haelee "Fixer" Savela
-Difficulty: Dangerous
-Progress: 16
+Name: Venri the arms dealer
+Difficulty: Formidable
+Progress: 0
 tags: incomplete
-TrackImage: "[[progress-track-16.svg]]"
+TrackImage: "[[progress-track-0.svg]]"
 ---
 
 # `=this.Name`

@@ -7,8 +7,8 @@ Shadow: 2
 Wits: 3
 Health: 5
 Spirit: 4
-Supply: 4
-Momentum: 7
+Supply: 3
+Momentum: 9
 Wealth: 1
 Wounded: ⬡
 Shaken: ⬡

@@ -48,6 +48,8 @@ Stuff:
 * Broken exosuit glove with icon (from trying to repel monster attack)
 * Paring knife
 
+Favorite drink: Blue Milk
+
 ## Stats
 | Edge | Heart | Iron | Shadow | Wits |
 | --- | --- | --- | --- | --- |

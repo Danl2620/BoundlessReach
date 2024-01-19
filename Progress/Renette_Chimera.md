@@ -1,9 +1,9 @@
 ---
-Name: Haelee "Fixer" Savela
-Difficulty: Dangerous
-Progress: 16
+Name: Renette "Chimera" Baird
+Difficulty: Formidable
+Progress: 4
 tags: incomplete
-TrackImage: "[[progress-track-16.svg]]"
+TrackImage: "[[progress-track-4.svg]]"
 ---
 
 # `=this.Name`

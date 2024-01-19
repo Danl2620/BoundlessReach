@@ -32,6 +32,8 @@ Rowen needs a background vow still. Discover during play?
 
 Maybe: You receive a secret message from an AI held by a powerful leader. It is a plea for help. What does it ask of you?
 
+## Session 1
+
 Maybe: Rowen gets called for a job. A group of Infinite Accord scavengers encountered a capital ship wreck in the drift and upon boarding it were attacked by androids. No life forms were detected aboard. They need Rowen's help to hunt down whatever is controlling/programming them and make the wreck safe. 
 
 Rowen rounds up Zoya and Halcyon to help out. Zoya brings the Luminous Sorrow (see above) for transport.
@@ -1393,6 +1395,129 @@ Evidently this hermit wants to avoid heat. Evidently, also, this hermit is an ex
 > **Additional Details:** 
 
 > [!mechanics]- Halcyon 6's Momentum set to 10 out of 10.
+
+The keeper is bothering Savela!
+
+> [!challenge-miss]- Zoya Wade Set a Course: Supply + 0
+> ![[d6-4-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-4-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-8-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-8-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-10-t.svg#invert_W|50]]
+> ### Result: ![[outcome-miss.svg|50]] Miss
+
+^^^^ actually a WEAK HIT!!
+
+> [!challenge-strong]- Zoya Wade Test Your Relationship: Heart + 1
+> ![[d6-4-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-6-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-2-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-5-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+> [!mechanics]- Zoya Wade's Momentum set to 9 out of 10.
+
+> [!progress]- Haelee "Fixer" Savela, 1 Progess Marked (Total: 4 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Fixer_Savela]], Difficulty: Dangerous
+> 1 progress marked or 8 ticks for a total of 4 full boxes or 16 ticks
+> 
+> ![[progress-track-16.svg|350]]
+> 
+> Milestone: 
+
+> [!challenge-strong]- Zoya Wade Face Danger: Wits + 1
+> ![[d6-6-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-10-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-6-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-7-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+> [!mechanics]- Zoya Wade's Momentum set to 10 out of 10.
+
+> [!progress]- Venri catches up to the PCs clock advanced
+> File Name: [[Venri_Catches_The_PCs]]
+>**Progress:** 2 out of 4 segments filled
+>![[progress-clock-4-2.svg|100]]
+> 
+> **Cause of Advance:**
+
+> [!challenge-weak]- Zoya Wade Set a Course: Supply + 1
+> ![[d6-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-4-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-6-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-6-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-2-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!mechanics]+ Zoya Wade's Momentum set to 9 out of 10.
+> 
+
+> [!mechanics]+ Zoya Wade's Supply set to 3 out of 5.
+> 
+
+Back on Larimar!
+
+> [!progress]- Venri catches up to the PCs clock advanced
+> File Name: [[Venri_Catches_The_PCs]]
+>**Progress:** 3 out of 4 segments filled
+>![[progress-clock-4-3.svg|100]]
+> 
+> **Cause of Advance:**
+
+> [!progress]- Venri catches up to the PCs clock advanced
+> File Name: [[Venri_Catches_The_PCs]]
+>**Progress:** 4 out of 4 segments filled
+>![[progress-clock-4-4.svg|100]]
+> 
+> **Cause of Advance:**
+> 
+>CLOCK IS FULL!
+
+> [!challenge-strong]- Zoya Wade Make a Connection: Heart + 0
+> ![[d6-6-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-7-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-3-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-4-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+> [!progress]- New Progress Track Created: [[Progress/Renette_Chimera|Renette_Chimera]], Total: 0 ![[progress-box-4.svg|15]]
+> **Name:** Renette "Chimera" Baird
+> **Difficulty:** Formidable
+> **Additional Details:** 
+
+Rowen knows Venri!
+
+<Is Renette Luthen?>
+
+> [!progress]- Renette "Chimera" Baird, 1 Progess Marked (Total: 1 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Renette_Chimera]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 1 full boxes or 4 ticks
+> 
+> ![[progress-track-4.svg|350]]
+> 
+> Milestone: 
+
+> [!challenge-strong]- Zoya Wade Gather Information: Wits + 1
+> ![[d6-5-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-9-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-6-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-8-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+Venri is here with bodyguards. They are "disarmed" -- only their augments and undetectable weaponry.
+
+Halcyon compels Venri to meet with us, with a match!
+
+> [!mechanics]- Halcyon 6's Momentum set to 10 out of 10.
+
+Venri grabs a VIP section at a local gastropub and invites us to drink and dine with us.
+
+Halcyons attempts a connection with Venri, weak hit.
+
+> [!progress]- New Progress Track Created: [[Progress/Venri|Venri]], Total: 0 ![[progress-box-4.svg|15]]
+> **Name:** Venri the arms dealer
+> **Difficulty:** Formidable
+> **Additional Details:** 
+
+Venri agrees to assist us, but wants Volo released.
+
+<Venri = Saw Gerrera ?>
+
+Halcyon compels Volo with a weak success.
+
+Volo demands help getting set back up with his crew.
+
+Halcyon compels Volo further with a strong hit with a match to adjust his methods.
+
+### End session 6
+
+
 
 
 
