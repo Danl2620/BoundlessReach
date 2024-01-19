@@ -6,9 +6,9 @@ Iron: 1
 Shadow: 2
 Wits: 3
 Health: 5
-Spirit: 5
-Supply: 5
-Momentum: 5
+Spirit: 4
+Supply: 4
+Momentum: 7
 Wealth: 1
 Wounded: ⬡
 Shaken: ⬡
@@ -106,3 +106,5 @@ WHERE file.name != "Progress_Template"
 ![[Starship]]
 
 ![[Overseer]]
+
+![[Heavy_Cannons]]

@@ -3,7 +3,7 @@
 
 
 ## Abilities:
-- [ ] When you aim your cannons and use them to [Strike](Moves/combat/strike), choose one.
+- [x] When you aim your cannons and use them to [Strike](Moves/combat/strike), choose one.
 
  * Strafing run: Add +1 and take +1 momentum on a hit.
  * Focus fire: Mark progress on a hit, but [Lose Momentum](Moves/suffer/lose_momentum) (-1).

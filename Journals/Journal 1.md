@@ -1168,7 +1168,7 @@ Volo's backup is here!
 > Milestone: 
 
 
-### Session 5
+## Session 5
 
 Can we escape before the keeper arrives?
 
@@ -1231,5 +1231,168 @@ We can take the remaining artifacts to an eccentric hermit on Aphelion.
 > **Goal:** Action/Theme - Defuse Improvement
 
 
-### Session 6
+## Session 6
+
+Is one of the artifacts cursed?
+
+Venri is hot on the trail of the PCs after learning of their derelict heist and seeing a particular artifact missing.
+
+> [!progress]- New Progress Clock Created: [[Clocks/Venri_Catches_The_PCs|Venri_Catches_The_PCs]], Total: 0 ![[progress-clock-4-0.svg|15]]
+> **Name:** Venri catches up to the PCs
+> **Segments:** 4
+>![[progress-clock-4-0.svg|100]]
+> **Additional Details:** 
+
+> [!challenge-weak]- Zoya Wade Set a Course: Supply + 0
+> ![[d6-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-5-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-6-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-3-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!progress]- Venri catches up to the PCs clock advanced
+> File Name: [[Venri_Catches_The_PCs]]
+>**Progress:** 1 out of 4 segments filled
+>![[progress-clock-4-1.svg|100]]
+> 
+> **Cause of Advance:**
+
+We arrive at Aphelion and detect a Keeper signature -- but _not_ the same one as at Aeternitas.
+
+> [!mechanics]- Zoya Wade's Momentum set to 7 out of 10.
+
+> [!challenge-weak]- Zoya Wade Gather Information: Wits + 2
+> ![[d6-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-2-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-8-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!mechanics]- Zoya Wade's Momentum set to 8 out of 10.
+
+Evidently this hermit wants to avoid heat. Evidently, also, this hermit is an ex-hermit.
+
+> [!oracle]- NPC: Haelee "Fixer" Savela
+> **First Look:** Grim
+> **Initial Disposition:** Pleasant
+> **Revealed Aspect:** Loyal
+> **Role:** Waste Manager
+> **Goal:** Spread misinformation
+
+> [!challenge-weak]- Zoya Wade Make a Connection: Heart + 0
+> ![[d6-5-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-6-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-7-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-4-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!progress]- New Progress Track Created: [[Progress/Fixer_Savela|Fixer_Savela]], Total: 0 ![[progress-box-4.svg|15]]
+> **Name:** Haelee "Fixer" Savela
+> **Difficulty:** Dangerous
+> **Additional Details:** 
+
+"Fixer" agrees to help us hide the crates.
+
+> [!progress]- Haelee "Fixer" Savela, 1 Progess Marked (Total: 2 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Fixer_Savela]], Difficulty: Dangerous
+> 1 progress marked or 8 ticks for a total of 2 full boxes or 8 ticks
+> 
+> ![[progress-track-8.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- New Progress Track Created: [[Progress/Reach_Hermit|Reach_Hermit]], Total: 0 ![[progress-box-4.svg|15]]
+> **Name:** Find the Hermit's base
+> **Difficulty:** Dangerous
+> **Additional Details:** 
+
+> [!challenge-weak]- Zoya Wade Undertake an Expedition: Wits + 0
+> ![[d6-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-6-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-3-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!progress]- Find the Hermit's base, 1 Progess Marked (Total: 2 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Reach_Hermit]], Difficulty: Dangerous
+> 1 progress marked or 8 ticks for a total of 2 full boxes or 8 ticks
+> 
+> ![[progress-track-8.svg|350]]
+> 
+> Milestone: 
+
+> [!mechanics]+ Zoya Wade's Momentum set to 7 out of 10.
+> 
+
+> [!mechanics]+ Zoya Wade's Supply set to 4 out of 5.
+> 
+
+// ;;move uae wits 0 Zoya_Wade
+> [!challenge-weak]- Zoya Wade Undertake an Expedition: Wits + 0
+> ![[d6-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-4-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-10-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!progress]- Find the Hermit's base, 1 Progess Marked (Total: 4 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Reach_Hermit]], Difficulty: Dangerous
+> 1 progress marked or 8 ticks for a total of 4 full boxes or 16 ticks
+> 
+> ![[progress-track-16.svg|350]]
+> 
+> Milestone: 
+
+> [!mechanics]+ Zoya Wade's Momentum set to 6 out of 10.
+> 
+
+> [!mechanics]+ Zoya Wade's Spirit set to 4 out of 5.
+> 
+
+> [!challenge-weak]- Zoya Wade Undertake an Expedition: Wits + 1
+> ![[d6-5-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-9-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-4-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!progress]- Find the Hermit's base, 1 Progess Marked (Total: 6 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Reach_Hermit]], Difficulty: Dangerous
+> 1 progress marked or 8 ticks for a total of 6 full boxes or 24 ticks
+> 
+> ![[progress-track-24.svg|350]]
+> 
+> Milestone: 
+
+> [!mechanics]+ Halcyon 6's Momentum set to 9 out of 10.
+> 
+
+> [!mechanics]+ Halcyon 6's Spirit set to 4 out of 5.
+> 
+
+;; strong hit on undertake an expedition by Halcyon
+
+> [!progress]- Find the Hermit's base, 1 Progess Marked (Total: 8 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Reach_Hermit]], Difficulty: Dangerous
+> 1 progress marked or 8 ticks for a total of 8 full boxes or 32 ticks
+> 
+> ![[progress-track-32.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Find the Hermit's base, 1 Progess Marked (Total: 10 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Reach_Hermit]], Difficulty: Dangerous
+> 1 progress marked or 8 ticks for a total of 10 full boxes or 40 ticks
+> 
+> ![[progress-track-40.svg|350]]
+> 
+> Milestone: 
+
+> [!oracle]- What do we find at the Hermit base? Descriptor/Focus: Infinitesimal Matter
+> **Additional Details:** 
+
+> [!oracle]- What _else_ do we find at the Hermit base? Descriptor/Focus: Illegal Planetoid
+> **Additional Details:** 
+
+> [!challenge-weak]- Zoya Wade Gather Information: Wits + 0
+> ![[d6-2-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-5-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-7-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-4-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!mechanics]- Zoya Wade's Momentum set to 7 out of 10.
+
+> [!oracle]- How can we infiltrate this base? Action/Theme: Prepare Safety
+> **Additional Details:** 
+
+> [!mechanics]- Halcyon 6's Momentum set to 10 out of 10.
+
+
 

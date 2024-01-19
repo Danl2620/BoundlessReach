@@ -33,6 +33,30 @@
             }
           },
           {
+            "id": "dbb652f22cd4a998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Zoya_Wade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b8a151bc678e282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Aphelion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6297842ba51e5ab2",
             "type": "leaf",
             "state": {
@@ -105,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "23d6f8cc661bad8a",
@@ -119,6 +143,18 @@
               "type": "markdown",
               "state": {
                 "file": "Journals/Journal 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82e9bf4315421377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Factions.md",
                 "mode": "source",
                 "source": false
               }
@@ -332,35 +368,35 @@
   },
   "active": "25967f1ed368f872",
   "lastOpenFiles": [
-    "NPCs/Arthir \"Badger\" Malek.md",
-    "Journals/Journal 1.md",
-    "NPCs/Renette \"Chimera\" Baird.md",
-    "Locations/Larimar.md",
     "Locations/Aphelion.md",
-    "NPCs/Arnav \"Bluewing\" Hunter.md",
+    "Journals/Journal 1.md",
     "README.md",
-    "Journals/Summary.md",
-    "Journals/Background.md",
-    "Locations/Erebus.md",
-    "Characters/Zoya_Wade.md",
-    "Progress/Zoya_Background_Vow.md",
-    "Journals/Factions.md",
     "Characters/Halcyon_6.md",
-    "Assets/Command_Vehicle/Starship.md",
+    "Characters/Zoya_Wade.md",
+    "Progress/Reach_Hermit.md",
+    "Progress/Fixer_Savela.md",
+    "Locations/Larimar.md",
+    "Journals/Factions.md",
+    "NPCs/Arnav \"Bluewing\" Hunter.md",
+    "Journals/Background.md",
     "Characters/Rowen_Sedano.md",
+    "Clocks/Venri_Catches_The_PCs.md",
+    "NPCs/Arthir \"Badger\" Malek.md",
+    "NPCs/Renette \"Chimera\" Baird.md",
+    "Assets/Module/Overseer.md",
+    "Journals/Summary.md",
+    "Locations/Erebus.md",
+    "Progress/Zoya_Background_Vow.md",
+    "Assets/Command_Vehicle/Starship.md",
     "Progress/Arnav.md",
     "Clocks/Keeper_Arrives.md",
     "Oracles/Core/Core_Theme.md",
     "Progress/Resolve_Ghost_Ship.md",
     "Progress/Find_the_Derelict.md",
     "Progress/Arthir_Badger.md",
-    "Progress/Amorphous_Creature.md",
     "Larimar.pdf",
     "Zoya_Wade.pdf",
     "Background.pdf",
-    "Progress/Halcyon_6_Background_Vow.md",
-    "Progress/Rowen_Sedano_Background_Vow.md",
-    "Progress/volo_fight.md",
     "Images/Concepts/zrd_51_by_tituslunter-d5xq1n2.jpg",
     "Images/Concepts/Yacht on Drowned Coast by Alex Ries.jpg",
     "Images/Concepts/Tron-Identity.png",

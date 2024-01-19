@@ -6,7 +6,7 @@ Iron: 1
 Shadow: 2
 Wits: 2
 Health: 5
-Spirit: 5
+Spirit: 4
 Supply: 5
 Momentum: 10
 Wealth: 1

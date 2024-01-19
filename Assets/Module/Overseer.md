@@ -4,7 +4,7 @@
 <hr>
 
 ## Abilities:
-- [ ] Your AI module keeps watch over the vehicle's systems and sensor data. When you [Secure an Advantage](Moves/adventure/secure_an_advantage) or [Gain Ground](Moves/combat/gain_ground) by talking through a situation with the overseer, you may roll +integrity. If you do, take +1 momentum on a hit.
+- [x] Your AI module keeps watch over the vehicle's systems and sensor data. When you [Secure an Advantage](Moves/adventure/secure_an_advantage) or [Gain Ground](Moves/combat/gain_ground) by talking through a situation with the overseer, you may roll +integrity. If you do, take +1 momentum on a hit.
 
 - [ ] When you [Withstand Damage](Moves/suffer/withstand_damage) and roll on the miss table, the overseer will do what it can to help. Roll twice on the table and choose either result.
 
