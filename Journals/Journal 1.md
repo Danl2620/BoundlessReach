@@ -1218,13 +1218,6 @@ We can take the remaining artifacts to an eccentric hermit on Aphelion.
 
 ### Adventure Crafter interlude
 
-> [!oracle]- NPC: Venri "Cypher" Paraz
-> **First Look:** Ruddy
-> **Initial Disposition:** Threatening
-> **Revealed Aspect:** Blunt
-> **Role:** Arms Dealer
-> **Goal:** Find an artifact
-
 > [!oracle]- NPC: Annora "Jenkins" Griffin
 > **First Look:** Burly
 > **Initial Disposition:** Brash
@@ -1269,13 +1262,6 @@ We arrive at Aphelion and detect a Keeper signature -- but _not_ the same one as
 > [!mechanics]- Zoya Wade's Momentum set to 8 out of 10.
 
 Evidently this hermit wants to avoid heat. Evidently, also, this hermit is an ex-hermit.
-
-> [!oracle]- NPC: Haelee "Fixer" Savela
-> **First Look:** Grim
-> **Initial Disposition:** Pleasant
-> **Revealed Aspect:** Loyal
-> **Role:** Waste Manager
-> **Goal:** Spread misinformation
 
 > [!challenge-weak]- Zoya Wade Make a Connection: Heart + 0
 > ![[d6-5-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-6-t.svg#invert_W|50]]
