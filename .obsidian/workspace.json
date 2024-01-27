@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Venri \"Cypher\" Paraz.md",
+                "file": "Journals/Factions.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 208.5
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Venri \"Cypher\" Paraz.md",
+                "file": "Journals/Factions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Venri \"Cypher\" Paraz.md",
+                "file": "Journals/Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Venri \"Cypher\" Paraz.md"
+                "file": "Journals/Factions.md"
               }
             }
           },
@@ -332,10 +332,13 @@
   },
   "active": "25967f1ed368f872",
   "lastOpenFiles": [
+    "Locations/Larimar.md",
+    "Journals/Summary.md",
+    "Journals/Factions.md",
+    "Journals/Background.md",
+    "NPCs/Venri \"Cypher\" Paraz.md",
     "NPCs/Haelee \"Fixer\" Savela.md",
     "Journals/Journal 1.md",
-    "NPCs/Venri \"Cypher\" Paraz.md",
-    "Journals/Summary.md",
     "NPCs/Renette \"Chimera\" Baird.md",
     "Characters/Zoya_Wade.md",
     "Progress/Venri.md",
@@ -350,14 +353,11 @@
     "Assets/Command_Vehicle/Starship.md",
     "Characters/Rowen_Sedano.md",
     "Locations/Aphelion.md",
-    "Locations/Larimar.md",
     "NPCs/Arnav \"Bluewing\" Hunter.md",
     "Progress/Arnav.md",
     "Clocks/Keeper_Arrives.md",
     "Oracles/Core/Core_Theme.md",
     "Progress/Resolve_Ghost_Ship.md",
-    "Progress/Find_the_Derelict.md",
-    "Progress/Arthir_Badger.md",
     "Larimar.pdf",
     "Zoya_Wade.pdf",
     "Background.pdf",

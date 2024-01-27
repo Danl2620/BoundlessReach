@@ -17,6 +17,10 @@
 > **Quirks:** Dependent on an addictive substance, Body augmentations are respected and valued
 > **Rumors:** Preparing a major offensive or operation, Vulnerable to attack or aggression
 
+The FC is the "tip of the spear" in the Outlands for the Terminus and Founder factions.
+
+They are helping build prisons, data nodes, and enforcing Terminus trade contracts among the various Outlander organizations.
+
 > [!oracle]- Faction: Infinite Accord
 > **Type:** Fringe Scavengers and Black Marketeers
 > **Leadership:**
@@ -27,6 +31,7 @@
 > **Quirks:** Trades in a unique currency or commodity, Elite soldiers provide defense or serve as bodyguards
 > **Rumors:** Critical resource is in short supply, Corrupted by a dangerous power
 
+The Infinite Accord needs a manifesto.
 
 
 ^9a16c2
