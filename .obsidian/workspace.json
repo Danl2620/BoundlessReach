@@ -6,7 +6,7 @@
       {
         "id": "65ccc2b772b9930c",
         "type": "tabs",
-        "dimension": 48.7027765134274,
+        "dimension": 48.702776513427395,
         "children": [
           {
             "id": "8441cfa5114054c3",
@@ -134,7 +134,7 @@
       {
         "id": "23d6f8cc661bad8a",
         "type": "tabs",
-        "dimension": 51.2972234865726,
+        "dimension": 51.297223486572605,
         "children": [
           {
             "id": "25967f1ed368f872",
@@ -294,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "Locations/Larimar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "Locations/Larimar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Journal 1.md"
+                "file": "Locations/Larimar.md"
               }
             }
           },
@@ -365,12 +365,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25967f1ed368f872",
+  "active": "ea172d3d158f8961",
   "lastOpenFiles": [
+    "Journals/Journal 1.md",
     "Progress/Venri.md",
     "Locations/Larimar.md",
     "Journals/Factions.md",
-    "Journals/Journal 1.md",
     "Characters/Zoya_Wade.md",
     "Characters/Rowen_Sedano.md",
     "Progress/Renette_Chimera.md",
