@@ -20,7 +20,7 @@ Tormented: ⬡
 Indebted: ⬡
 XPSpent: 0
 Bonds_Progress: 0
-Bonds_TrackImage: "[[progress-track-0.svg]]"
+Bonds_TrackImage: "[[progress-track-3.svg]]"
 Bonds_XPEarned: 0
 Discoveries_Progress: 3
 Discoveries_TrackImage: "[[progress-track-3.svg]]"

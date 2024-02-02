@@ -1503,6 +1503,122 @@ Halcyon compels Volo further with a strong hit with a match to adjust his method
 
 ### End session 6
 
+## SESSION 7
+
+Tourist starliner.
+
+Volo and Venri leave.
+
+Renette chases us out.
+
+We leave.
+
+action 9, 
+challenge 1, 1
+
+> [!mechanics]- Zoya Wade's Momentum set to 10 out of 10.
+
+> [!challenge-strong]- Zoya Wade Gather Information: Wits + 1
+> ![[d6-5-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-9-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-7-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-2-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+There's a fringe smuggler faction that is trying to negotiate an agreement. "The Keepers of the Cursed Pact".
+
+The PCs swear an iron vow to disrupt the splinter faction and collect any precursor artifacts.
+
+> [!progress]- New Progress Track Created: [[Progress/Precursor_Faction|Precursor_Faction]], Total: 0 ![[progress-box-4.svg|15]]
+> **Name:** Disrupt "The KCP" and retrieve precursor artifacts
+> **Difficulty:** Formidable
+> **Additional Details:** 
+
+Halcyon has a strong hit on the swear an iron vow.
+
+> [!challenge-weak]- Zoya Wade Set a Course: Supply + 0
+> ![[d6-5-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-8-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-8-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-6-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!mechanics]+ Zoya Wade's Momentum set to 8 out of 10.
+> 
+
+> [!oracle]- **Planet:** Kheimon, Class: Ice
+>**Region:** Outlands
+> **Observed from Space:** Frozen Oceans
+> **Atmosphere:** Breathable
+> **Feature:** Columns of ice
+> **Life:** Bountiful
+
+Settlement: "Sirius Landing"
+
+Population: Hundreds,
+First look: Built from natural materials
+Disposition: Neutral/Automated
+Authority: Unyielding
+Projects: Mining
+Trouble: Overdue delivery, Betrayal from within
+
+Precursor Vault:
+Large, elaborate site
+Structure
+Organic/Curved
+Metallic/Smooth
+Automated defenses
+
+> [!oracle]- "What do we see when we arrive at Sirius Landing" Descriptor/Focus: Foreboding Monument
+> **Additional Details:** 
+
+> [!oracle]- "What kind of greeting do we get at the settlement?" Action/Theme: Rally Misinformation
+> **Additional Details:** 
+
+> [!mechanics]- Zoya Wade's Momentum set to 10 out of 10.
+
+> [!challenge-weak]- Zoya Wade Gather Information: Wits + 1
+> ![[d6-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-7-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-10-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!oracle]- NPC: Kierra "Link" Lohenz
+> **First Look:** Stocky
+> **Initial Disposition:** Prickly
+> **Revealed Aspect:** Obsessed
+> **Role:** Preacher
+> **Goal:** Educate others
+
+> [!mechanics]+ Zoya Wade's Supply set to 2 out of 5.
+> 
+
+> [!progress]- Disrupt "The KCP" and retrieve precursor artifacts, 1 Progess Marked (Total: 1 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Precursor_Faction]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 1 full boxes or 4 ticks
+> 
+> ![[progress-track-4.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- New Progress Track Created: [[Progress/Link_Lohenze|Link_Lohenze]], Total: 0 ![[progress-box-4.svg|15]]
+> **Name:** Link Lohenz
+> **Difficulty:** Dangerous
+> **Additional Details:** 
+
+> [!oracle]- "What is the nature of the faction's precursor tech/artifact?" Descriptor/Focus: Undiscovered Climate
+> **Additional Details:** 
+
+> [!progress]- New Progress Clock Created: [[Clocks/KCP_use_device|KCP_use_device]], Total: 0 ![[progress-clock-6-0.svg|15]]
+> **Name:** KCP will set off the precursor device
+> **Segments:** 6
+>![[progress-clock-6-0.svg|100]]
+> **Additional Details:** 
+
+The KCP will utilize this "genesis" device when the clock runs out.
+
+The Garchs? The Tarchs?
+
+### End session 7
+
+
+
+
 
 
 

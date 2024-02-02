@@ -6,7 +6,7 @@
       {
         "id": "65ccc2b772b9930c",
         "type": "tabs",
-        "dimension": 48.702776513427395,
+        "dimension": 47.88373278939317,
         "children": [
           {
             "id": "8441cfa5114054c3",
@@ -57,47 +57,23 @@
             }
           },
           {
+            "id": "b6f15dfeea0877c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress/Renette_Chimera.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea172d3d158f8961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Larimar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6297842ba51e5ab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journals/Background.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9661f2615de904a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Arthir \"Badger\" Malek.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "47180496e1a533ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Journals/Factions.md",
                 "mode": "source",
                 "source": false
@@ -105,80 +81,12 @@
             }
           },
           {
-            "id": "7e6308c5e07b8207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eac6f063d49f5e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progress/Resolve_Ghost_Ship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "23d6f8cc661bad8a",
-        "type": "tabs",
-        "dimension": 51.297223486572605,
-        "children": [
-          {
-            "id": "25967f1ed368f872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journals/Journal 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82e9bf4315421377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journals/Factions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e667931b01b9fe60",
+            "id": "674996575f7859e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "NPCs/Arnav \"Bluewing\" Hunter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "516b74b0fc95eddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assets/Command_Vehicle/Starship.md",
                 "mode": "source",
                 "source": false
               }
@@ -197,19 +105,63 @@
             }
           },
           {
-            "id": "8152f10edd2b16ce",
+            "id": "6297842ba51e5ab2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress/Amorphous_Creature.md",
+                "file": "Journals/Background.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "41c26016c10a59cc",
+            "id": "7e6308c5e07b8207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "516b74b0fc95eddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Command_Vehicle/Starship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "23d6f8cc661bad8a",
+        "type": "tabs",
+        "dimension": 52.116267210606836,
+        "children": [
+          {
+            "id": "25967f1ed368f872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Journal 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82e9bf4315421377",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -294,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Larimar.md",
+                "file": "Journals/Journal 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Larimar.md",
+                "file": "Journals/Journal 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Larimar.md"
+                "file": "Journals/Journal 1.md"
               }
             }
           },
@@ -365,34 +317,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea172d3d158f8961",
+  "active": "25967f1ed368f872",
   "lastOpenFiles": [
-    "Journals/Journal 1.md",
-    "Progress/Venri.md",
-    "Locations/Larimar.md",
-    "Journals/Factions.md",
-    "Characters/Zoya_Wade.md",
-    "Characters/Rowen_Sedano.md",
-    "Progress/Renette_Chimera.md",
+    "Clocks/KCP_use_device.md",
+    "Clocks/null.md",
     "README.md",
-    "NPCs/Renette \"Chimera\" Baird.md",
-    "Locations/Aphelion.md",
+    "Journals/Journal 1.md",
+    "Progress/Link_Lohenze.md",
+    "Characters/Zoya_Wade.md",
     "Journals/Background.md",
-    "Assets/Command_Vehicle/Starship.md",
-    "Clocks/Venri_Catches_The_PCs.md",
-    "Progress/Fixer_Savela.md",
-    "NPCs/Arnav \"Bluewing\" Hunter.md",
-    "Progress/Reach_Hermit.md",
     "Characters/Halcyon_6.md",
-    "NPCs/Arthir \"Badger\" Malek.md",
-    "Assets/Module/Overseer.md",
-    "Journals/Summary.md",
-    "Locations/Erebus.md",
-    "Progress/Zoya_Background_Vow.md",
-    "Progress/Arnav.md",
-    "Clocks/Keeper_Arrives.md",
-    "Oracles/Core/Core_Theme.md",
+    "Characters/Rowen_Sedano.md",
+    "Oracles/Planets/Planets_Class.md",
+    "Progress/Precursor_Faction.md",
+    "Journals/Factions.md",
+    "Progress/Renette_Chimera.md",
+    "NPCs/Renette \"Chimera\" Baird.md",
+    "Locations/Larimar.md",
+    "Locations/Aphelion.md",
+    "NPCs/Arnav \"Bluewing\" Hunter.md",
+    "Assets/Command_Vehicle/Starship.md",
     "Progress/Resolve_Ghost_Ship.md",
+    "Progress/Amorphous_Creature.md",
+    "Locations/Erebus.md",
+    "Clocks/Venri_Catches_The_PCs.md",
+    "Clocks/volo_backup.md",
+    "Clocks/Keeper_Arrives.md",
+    "conflict-files-obsidian-git.md",
+    "NPCs/Venri \"Cypher\" Paraz.md",
     "Larimar.pdf",
     "Zoya_Wade.pdf",
     "Background.pdf",

@@ -7,8 +7,8 @@ Shadow: 2
 Wits: 3
 Health: 5
 Spirit: 4
-Supply: 3
-Momentum: 9
+Supply: 2
+Momentum: 10
 Wealth: 1
 Wounded: ⬡
 Shaken: ⬡
@@ -20,7 +20,7 @@ Tormented: ⬡
 Indebted: ⬡
 XPSpent: 0
 Bonds_Progress: 0
-Bonds_TrackImage: "[[progress-track-0.svg]]"
+Bonds_TrackImage: "[[progress-track-3.svg]]"
 Bonds_XPEarned: 0
 Discoveries_Progress: 3
 Discoveries_TrackImage: "[[progress-track-3.svg]]"
