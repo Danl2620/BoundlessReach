@@ -5,10 +5,10 @@ Heart: 2
 Iron: 3
 Shadow: 1
 Wits: 1
-Health: 5
+Health: 4
 Spirit: 5
 Supply: 4
-Momentum: 10
+Momentum: 2
 Wealth: 1
 Wounded: ⬡
 Shaken: ⬡
@@ -22,9 +22,9 @@ XPSpent: 0
 Bonds_Progress: 0
 Bonds_TrackImage: "[[progress-track-3.svg]]"
 Bonds_XPEarned: 0
-Discoveries_Progress: 3
-Discoveries_TrackImage: "[[progress-track-3.svg]]"
-Discoveries_XPEarned: 0
+Discoveries_Progress: 5
+Discoveries_TrackImage: "[[progress-track-5.svg]]"
+Discoveries_XPEarned: 2
 Quests_Progress: 4
 Quests_TrackImage: "[[progress-track-4.svg]]"
 Quests_XPEarned: 2

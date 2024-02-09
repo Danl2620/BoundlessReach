@@ -1,9 +1,9 @@
 ---
-Name: Disrupt "The KCP" and retrieve precursor artifacts
-Difficulty: Formidable
-Progress: 24
+Name: Ayako "Mantis" Slater
+Difficulty: Dangerous
+Progress: 0
 tags: incomplete
-TrackImage: "[[progress-track-24.svg]]"
+TrackImage: "[[progress-track-0.svg]]"
 ---
 
 # `=this.Name`

@@ -1,9 +1,9 @@
 ---
-Name: Disrupt "The KCP" and retrieve precursor artifacts
+Name: Find the KCP
 Difficulty: Formidable
-Progress: 24
-tags: incomplete
-TrackImage: "[[progress-track-24.svg]]"
+Progress: 32
+tags: complete
+TrackImage: "[[progress-track-32.svg]]"
 ---
 
 # `=this.Name`

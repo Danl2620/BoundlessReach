@@ -1,9 +1,9 @@
 ---
 Name: Link Lohenz
 Difficulty: Dangerous
-Progress: 0
+Progress: 8
 tags: incomplete
-TrackImage: "[[progress-track-0.svg]]"
+TrackImage: "[[progress-track-8.svg]]"
 ---
 
 # `=this.Name`

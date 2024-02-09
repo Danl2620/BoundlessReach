@@ -57,6 +57,18 @@
             }
           },
           {
+            "id": "25967f1ed368f872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b6f15dfeea0877c9",
             "type": "leaf",
             "state": {
@@ -141,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       },
       {
         "id": "23d6f8cc661bad8a",
@@ -149,7 +161,7 @@
         "dimension": 52.116267210606836,
         "children": [
           {
-            "id": "25967f1ed368f872",
+            "id": "82e9bf4315421377",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,7 +173,7 @@
             }
           },
           {
-            "id": "82e9bf4315421377",
+            "id": "500959b0627701b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -317,24 +329,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25967f1ed368f872",
+  "active": "82e9bf4315421377",
   "lastOpenFiles": [
+    "Characters/Zoya_Wade.md",
+    "Journals/Journal 1.md",
+    "Journals/Factions.md",
+    "Characters/Rowen_Sedano.md",
+    "Characters/Halcyon_6.md",
+    "README.md",
+    "Progress/Mantis_Slater.md",
+    "Progress/Reach_KCP.md",
+    "Journals/Background.md",
+    "Locations/Misc.md",
+    "Locations/Aphelion.md",
     "Clocks/KCP_use_device.md",
     "Clocks/null.md",
-    "README.md",
-    "Journals/Journal 1.md",
     "Progress/Link_Lohenze.md",
-    "Characters/Zoya_Wade.md",
-    "Journals/Background.md",
-    "Characters/Halcyon_6.md",
-    "Characters/Rowen_Sedano.md",
     "Oracles/Planets/Planets_Class.md",
     "Progress/Precursor_Faction.md",
-    "Journals/Factions.md",
     "Progress/Renette_Chimera.md",
     "NPCs/Renette \"Chimera\" Baird.md",
     "Locations/Larimar.md",
-    "Locations/Aphelion.md",
     "NPCs/Arnav \"Bluewing\" Hunter.md",
     "Assets/Command_Vehicle/Starship.md",
     "Progress/Resolve_Ghost_Ship.md",
@@ -342,9 +357,6 @@
     "Locations/Erebus.md",
     "Clocks/Venri_Catches_The_PCs.md",
     "Clocks/volo_backup.md",
-    "Clocks/Keeper_Arrives.md",
-    "conflict-files-obsidian-git.md",
-    "NPCs/Venri \"Cypher\" Paraz.md",
     "Larimar.pdf",
     "Zoya_Wade.pdf",
     "Background.pdf",

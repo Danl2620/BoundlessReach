@@ -1503,7 +1503,7 @@ Halcyon compels Volo further with a strong hit with a match to adjust his method
 
 ### End session 6
 
-## SESSION 7
+## Session 7
 
 Tourist starliner.
 
@@ -1614,12 +1614,289 @@ The KCP will utilize this "genesis" device when the clock runs out.
 
 The Garchs? The Tarchs?
 
+> [!progress]- KCP will set off the precursor device clock advanced
+> File Name: [[KCP_use_device]]
+>**Progress:** 1 out of 6 segments filled
+>![[progress-clock-6-1.svg|100]]
+> 
+> **Cause of Advance:**
+
 ### End session 7
 
+## Session 8
+
+Halcyon "Test Your Relationship" move to get "Link" to help use secure an Ice Rover.
+
+> [!progress]- Link Lohenz, 1 Progess Marked (Total: 2 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Link_Lohenze]], Difficulty: Dangerous
+> 1 progress marked or 8 ticks for a total of 2 full boxes or 8 ticks
+> 
+> ![[progress-track-8.svg|350]]
+> 
+> Milestone: 
+
+The PCs set out to find the KCP.
+
+> [!progress]- New Progress Track Created: [[Progress/Reach_KCP|Reach_KCP]], Total: 0 ![[progress-box-4.svg|15]]
+> **Name:** Find the KCP
+> **Difficulty:** Formidable
+> **Additional Details:** 
+
+> [!challenge-strong]- Zoya Wade Undertake an Expedition: Wits + 1
+> ![[d6-4-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-8-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-7-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-3-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+> [!progress]- Find the KCP, 1 Progess Marked (Total: 1 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Reach_KCP]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 1 full boxes or 4 ticks
+> 
+> ![[progress-track-4.svg|350]]
+> 
+> Milestone: 
+
+subsurface liquid oceans
+
+> [!challenge-strong]- Zoya Wade Undertake an Expedition: Wits + 1
+> ![[d6-4-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-8-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-6-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+> [!progress]- Find the KCP, 1 Progess Marked (Total: 2 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Reach_KCP]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 2 full boxes or 8 ticks
+> 
+> ![[progress-track-8.svg|350]]
+> 
+> Milestone: 
+
+vibrant auroras
+
+> [!challenge-strong]- Zoya Wade Undertake an Expedition: Wits + 1
+> ![[d6-6-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-10-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-5-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-8-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+> [!progress]- Find the KCP, 1 Progess Marked (Total: 3 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Reach_KCP]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 3 full boxes or 12 ticks
+> 
+> ![[progress-track-12.svg|350]]
+> 
+> Milestone: 
+
+clusters of ice spikes
+
+> [!challenge-strong]- Zoya Wade Undertake an Expedition: Wits + 1
+> ![[d6-6-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-10-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-6-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-4-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+> [!progress]- Find the KCP, 1 Progess Marked (Total: 4 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Reach_KCP]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 4 full boxes or 16 ticks
+> 
+> ![[progress-track-16.svg|350]]
+> 
+> Milestone: 
+
+rocky islands amid icy wastes
+
+Interesting or helpful aspect of benign creatures (crystallids)
+
+Insight into the nature or history of the faith. The precursor vault has imbued the area with mystical energies.
+
+Zoya notices similarities with previous precursor encounters.
+
+> [!challenge-miss]- Zoya Wade Undertake an Expedition: Wits + 1
+> ![[d6-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-5-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-6-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-6-t.svg#invert_W|50]]
+> ### Result: ![[outcome-miss.svg|50]] Miss with a MATCH!
+
+> [!mechanics]+ Zoya Wade burned their momentum!
+> This changed the result to: 
+> 
+> Momentum Max: 10
+> Momentum Reset: 2
+
+Rocky islands
+
+Access to a hidden or sealed area
+
+Encounter with a helpful adherent or heretic
+
+> [!progress]- Find the KCP, 2 Progess Marked (Total: 6 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Reach_KCP]], Difficulty: Formidable
+> 2 progress marked or 8 ticks for a total of 6 full boxes or 24 ticks
+> 
+> ![[progress-track-24.svg|350]]
+> 
+> Milestone: 
+
+> [!oracle]- NPC: Ayako "Mantis" Slater
+> **First Look:** Distracted
+> **Initial Disposition:** Helpful
+> **Revealed Aspect:** Considerate
+> **Role:** Programmer
+> **Goal:** Bring balance
+
+Mantis wants to broker a truce with the settlement.
+
+Halcyon speaks and convinces Mantis that we aren't a threat.
+
+> [!mechanics]- Halcyon 6's Momentum set to 10 out of 10.
+
+> [!progress]- KCP will set off the precursor device clock advanced
+> File Name: [[KCP_use_device]]
+>**Progress:** 2 out of 6 segments filled
+>![[progress-clock-6-2.svg|100]]
+> 
+> **Cause of Advance:**
+
+> [!mechanics]- Rowen Sedano's Momentum set to 10 out of 10.
+
+Rowen convinces Mantis to come with us and help us talk to the KCP leadership.
+
+> [!mechanics]+ Rowen Sedano burned their momentum!
+> This changed the result to: 
+> 
+> Momentum Max: 10
+> Momentum Reset: 2
+
+> [!progress]- New Progress Track Created: [[Progress/Mantis_Slater|Mantis_Slater]], Total: 0 ![[progress-box-4.svg|15]]
+> **Name:** Ayako "Mantis" Slater
+> **Difficulty:** Dangerous
+> **Additional Details:** 
+
+Mantis wants some specific supplies in return for helping us.
+
+> [!challenge-weak]- Zoya Wade Undertake an Expedition: Wits + 1
+> ![[d6-2-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-6-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-3-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+At the next waypoint: Unnatural corruption or decay fouls the environment.
+
+> [!challenge-weak]- Zoya Wade Check Your Gear: Supply + 0
+> ![[d6-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-2-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-3-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-3-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!mechanics]- Zoya Wade's Supply set to 3 out of 5.
+
+> [!mechanics]+ Zoya Wade's Supply set to 1 out of 5.
+> 
+
+Shatter plains of pack ice. 
+
+> [!challenge-strong]- Zoya Wade Undertake an Expedition: Wits + 1
+> ![[d6-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-5-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-3-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-3-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit with a MATCH!
+
+> [!progress]- KCP will set off the precursor device clock advanced
+> File Name: [[KCP_use_device]]
+>**Progress:** 3 out of 6 segments filled
+>![[progress-clock-6-3.svg|100]]
+> 
+> **Cause of Advance:**
+
+> [!progress]- Find the KCP, 2 Progess Marked (Total: 8 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Reach_KCP]], Difficulty: Formidable
+> 2 progress marked or 8 ticks for a total of 8 full boxes or 32 ticks
+> 
+> ![[progress-track-32.svg|350]]
+> 
+> Milestone: 
+
+Clusters of ice spikes.
+
+Offerings or atonements.
+
+> [!progress]+ Find the KCP, Roll to Finish: ![[outcome-strong-hit.svg|35]]
+> ![[progress-8-t.svg#invert_W|50]]![[vs-t.svg#invert_W|50]]![[d10-5-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-6-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|35]] Strong Hit
+
+> [!progress]- Halcyon 6's Discoveries, 2 Progess Marked (Total: 1 ![[progress-box-4.svg|15]])
+> File Name: [[Characters/Halcyon_6]], Difficulty: Epic
+> 2 progress marked or 2 ticks for a total of 1 full boxes or 5 ticks
+> 
+> ![[progress-track-5.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Rowen Sedano's Discoveries, 2 Progess Marked (Total: 1 ![[progress-box-4.svg|15]])
+> File Name: [[Characters/Rowen_Sedano]], Difficulty: Epic
+> 2 progress marked or 2 ticks for a total of 1 full boxes or 5 ticks
+> 
+> ![[progress-track-5.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Zoya Wade's Discoveries, 2 Progess Marked (Total: 1 ![[progress-box-4.svg|15]])
+> File Name: [[Characters/Zoya_Wade]], Difficulty: Epic
+> 2 progress marked or 2 ticks for a total of 1 full boxes or 5 ticks
+> 
+> ![[progress-track-5.svg|350]]
+> 
+> Milestone: 
+
+Graves or remains of glorified disciples. Mantis said: "many of made the ultimate sacrifice to receive the bounty of the precursors."
+
+Fortuitous change in the weather or atmosphere.
+
+> [!progress]- Disrupt "The KCP" and retrieve precursor artifacts, 4 Progess Marked (Total: 5 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Precursor_Faction]], Difficulty: Formidable
+> 4 progress marked or 16 ticks for a total of 5 full boxes or 20 ticks
+> 
+> ![[progress-track-20.svg|350]]
+> 
+> Milestone: 
+
+The KCP HQ is a crash Super Transport mobile HQ.
+
+* Biological components
+* Discarded Drive
+* Leaking radiation
+
+> [!challenge-weak]- Zoya Wade Set a Course: Supply + 1
+> ![[d6-2-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-4-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!mechanics]+ Zoya Wade's Spirit set to 3 out of 5.
+> 
+
+> [!mechanics]+ Rowen Sedano's Health set to 4 out of 5.
+> 
+
+We reach the ops area, Bridge
+
+* EV suit storage
+* Sealed blast doors block access
+
+> [!oracle]- NPC: Ulan "Fidget" Yuz
+> **First Look:** Stocky
+> **Initial Disposition:** Cautious
+> **Revealed Aspect:** Oppressed
+> **Role:** Crew
+> **Goal:** Refute a falsehood
+
+> [!oracle]- NPC: Cassidy "Roach" Randalla
+> **First Look:** Augmented
+> **Initial Disposition:** Hostile
+> **Revealed Aspect:** Logical
+> **Role:** Librarian
+> **Goal:** Action/Theme - Contaminate Future
 
 
-
-
+> [!progress]- Disrupt "The KCP" and retrieve precursor artifacts, 1 Progess Marked (Total: 6 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Precursor_Faction]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 6 full boxes or 24 ticks
+> 
+> ![[progress-track-24.svg|350]]
+> 
+> Milestone: 
 
 
 
