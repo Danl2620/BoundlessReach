@@ -1875,21 +1875,6 @@ We reach the ops area, Bridge
 * EV suit storage
 * Sealed blast doors block access
 
-> [!oracle]- NPC: Ulan "Fidget" Yuz
-> **First Look:** Stocky
-> **Initial Disposition:** Cautious
-> **Revealed Aspect:** Oppressed
-> **Role:** Crew
-> **Goal:** Refute a falsehood
-
-> [!oracle]- NPC: Cassidy "Roach" Randalla
-> **First Look:** Augmented
-> **Initial Disposition:** Hostile
-> **Revealed Aspect:** Logical
-> **Role:** Librarian
-> **Goal:** Action/Theme - Contaminate Future
-
-
 > [!progress]- Disrupt "The KCP" and retrieve precursor artifacts, 1 Progess Marked (Total: 6 ![[progress-box-4.svg|15]])
 > File Name: [[Progress/Precursor_Faction]], Difficulty: Formidable
 > 1 progress marked or 4 ticks for a total of 6 full boxes or 24 ticks
@@ -1897,6 +1882,142 @@ We reach the ops area, Bridge
 > ![[progress-track-24.svg|350]]
 > 
 > Milestone: 
+
+### End session 8
+
+## Session 9
+
+On the bridge, we find:
+
+
+> [!oracle]- NPC: Ulan "Fidget" Yuz
+> **First Look:** Stocky
+> **Initial Disposition:** Cautious
+> **Revealed Aspect:** Oppressed
+> **Role:** Crew/Minion/Capo
+> **Goal:** Refute a falsehood
+
+> [!oracle]- NPC: Cassidy "Roach" Randalla
+> **First Look:** Augmented
+> **Initial Disposition:** Hostile
+> **Revealed Aspect:** Logical
+> **Role:** Librarian/Cultist/Leader
+> **Goal:** Action/Theme - Contaminate Future
+
+And six (6!) more minion NPCs.
+
+> [!oracle]- "Do we see the artifact at first glance?" (Fifty-Fifty) Result: 86, No
+> **Additional Details:** 
+
+> [!progress]- KCP will set off the precursor device clock advanced
+> File Name: [[KCP_use_device]]
+>**Progress:** 4 out of 6 segments filled
+>![[progress-clock-6-4.svg|100]]
+> 
+> **Cause of Advance:**
+
+> [!oracle]- "What is the initial disposition of the KCP leadership towards us?" Action/Theme: Amplify Ally
+> **Additional Details:** 
+
+KCP
+projects: Disrupt the operations of a rival / Consolidate control of a valuable commodity
+
+"Roach" recognizes Zoya!
+
+This is the murder victim for whom Zoya was framed:
+> [!oracle]- NPC: Bentom "Fly" Vandu
+> **First Look:** Lanky
+> **Initial Disposition:** Cautious
+> **Revealed Aspect:** Purposeful
+> **Role:** Spaceship Dealer
+> **Goal:** Find an artifact
+
+> [!progress]- Find The Real Killers, 1 Progess Marked (Total: 0 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Zoya_Background_Vow]], Difficulty: Epic
+> 1 progress marked or 1 ticks for a total of 0 full boxes or 1 ticks
+> 
+> ![[progress-track-1.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Find The Real Killers, 1 Progess Marked (Total: 0 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Zoya_Background_Vow]], Difficulty: Epic
+> 1 progress marked or 1 ticks for a total of 0 full boxes or 2 ticks
+> 
+> ![[progress-track-2.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- KCP will set off the precursor device clock advanced
+> File Name: [[KCP_use_device]]
+>**Progress:** 5 out of 6 segments filled
+>![[progress-clock-6-5.svg|100]]
+> 
+> **Cause of Advance:**
+
+> [!oracle]- "Do we see evidence of the artifact?" (Likely) Result: 39, Yes
+> **Additional Details:** 
+
+> [!oracle]- "Is the artifact on the bridge?" (Fifty-Fifty) Result: 17, Yes
+> **Additional Details:** 
+
+> [!challenge-strong]- Zoya Wade Gather Information: Wits + 1
+> ![[d6-6-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-10-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-7-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-4-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+> [!oracle]- "What does the artifact look like?" Descriptor/Focus: Cheap Virus
+> **Additional Details:** 
+
+> [!oracle]- "No really" Descriptor/Focus: Brutal Reality
+> **Additional Details:** 
+
+Halcyon will try to talk them out of using it.
+
+Rowen will aid your ally (secure an advantage).... strong hit!
+
+Halcyon gets a strong hit!
+
+> [!oracle]- "Do they seem to be stopping/slowing it?" (Fifty-Fifty) Result: 78, No
+> **Additional Details:** 
+
+_silver tongues, silver bullets?_
+
+> [!oracle]- "How does Roach respond to our compel?" Action/Theme: Leave Habit
+> **Additional Details:** 
+
+> [!oracle]- "expand" Action/Theme: Falter Faction
+> **Additional Details:** 
+
+Halcyon rolls 2,2 challenge and action 8 -- to convert them join the cause.
+
+Roach "agrees".
+
+> [!oracle]- "How does Roach approach this misunderstanding?" Action/Theme: Induce Pleasure
+> **Additional Details:** 
+
+> [!challenge-weak]- Zoya Wade Face Danger: Wits + 1
+> ![[d6-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-7-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-4-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-10-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!mechanics]+ Zoya Wade's Health set to 4 out of 5.
+> 
+
+Rowen compels the minions to leave.
+
+> [!mechanics]- Rowen Sedano's Momentum set to 3 out of 10.
+
+> [!progress]- Find The Real Killers, 1 Progess Marked (Total: 0 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Zoya_Background_Vow]], Difficulty: Epic
+> 1 progress marked or 1 ticks for a total of 0 full boxes or 3 ticks
+> 
+> ![[progress-track-3.svg|350]]
+> 
+> Milestone: 
+
+
+
 
 
 

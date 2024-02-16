@@ -5,7 +5,7 @@ Heart: 1
 Iron: 1
 Shadow: 2
 Wits: 3
-Health: 5
+Health: 4
 Spirit: 3
 Supply: 1
 Momentum: 2

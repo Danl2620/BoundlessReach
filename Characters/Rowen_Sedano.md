@@ -8,7 +8,7 @@ Wits: 1
 Health: 4
 Spirit: 5
 Supply: 4
-Momentum: 2
+Momentum: 3
 Wealth: 1
 Wounded: ⬡
 Shaken: ⬡

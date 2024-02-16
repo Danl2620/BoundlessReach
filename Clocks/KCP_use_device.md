@@ -1,9 +1,9 @@
 ---
 Name: KCP will set off the precursor device
 Segments: 6
-Progress: 3
+Progress: 5
 tags: incomplete
-ClockImage: "[[progress-clock-6-3.svg]]"
+ClockImage: "[[progress-clock-6-5.svg]]"
 ---
 
 # `=this.Name`
