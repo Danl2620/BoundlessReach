@@ -1841,7 +1841,7 @@ Offerings or atonements.
 > 
 > Milestone: 
 
-Graves or remains of glorified disciples. Mantis said: "many of made the ultimate sacrifice to receive the bounty of the precursors."
+Graves or remains of glorified disciples. Mantis said: "many of us made the ultimate sacrifice to receive the bounty of the precursors."
 
 Fortuitous change in the weather or atmosphere.
 
@@ -2016,8 +2016,103 @@ Rowen compels the minions to leave.
 > 
 > Milestone: 
 
+### End of Session 9
+## Session 10
 
+> [!oracle]- "What is Roach's attitude towards Zoya after her attack and threat?" Descriptor/Focus: Mysterious Liquid
+> **Additional Details:** 
 
+Zoya's knife at Roach's throat causes Roach to bleed something that doesn't seem like blood.
 
+> [!oracle]- "What is Roach's attitude towards Zoya after her attack and threat?" Action/Theme: Incite Principle
+> **Additional Details:** 
 
+Rowen starts moving slowly toward the artifact.
 
+> [!challenge-weak]- Zoya Wade Face Danger: Edge + 0
+> ![[d6-5-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-2-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-7-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-3-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-7-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!mechanics]+ Zoya Wade's Health set to 3 out of 5.
+> 
+
+> [!challenge-weak]- Zoya Wade Check Your Gear: Supply + 0
+> ![[d6-4-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-1-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-5-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-10-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+Zoya has something like ziptie cuffs/bindings. 
+
+> [!mechanics]+ Zoya Wade's Momentum set to 0 out of 10.
+> 
+
+> [!challenge-weak]- Zoya Wade Set a Course: Wits + 1
+> ![[d6-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-7-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-8-t.svg#invert_W|50]]
+> ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
+
+> [!challenge-miss]- Zoya Wade Face Danger: Wits + 1
+> ![[d6-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-7-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-7-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]
+> ### Result: ![[outcome-miss.svg|50]] Miss
+
+> [!oracle]- Pay the Price! **Result:** A tactical advantage is lost
+> 
+> **Additional Details:** 
+
+> [!oracle]- "What is the physical nature of the artifact?" Descriptor/Focus: Functional Symbiote
+> **Additional Details:** 
+
+Halcyon is immune.
+
+Rowen grabs the artifact -- a strange creature in a container.
+
+> [!oracle]- "What's Roach's demeanor to the creature now?" Action/Theme: Discern Nature
+> **Additional Details:** 
+
+The creature is a "Precursor Blattoid".
+
+Roach is intensely interested in the creature.
+
+Rowen keeps the creature and heads to the exit.
+
+> [!progress]- New Progress Clock Created: [[Clocks/precursor_symbiosis|precursor_symbiosis]], Total: 0 ![[progress-clock-6-0.svg|15]]
+> **Name:** The precursor symbiote infects our minds.
+> **Segments:** 6
+>![[progress-clock-6-0.svg|100]]
+> **Additional Details:** 
+
+> [!progress]- New Progress Track Created: [[Progress/escape_cult|escape_cult]], Total: 0 ![[progress-box-4.svg|15]]
+> **Name:** Escape the KCP with the precursor creature
+> **Difficulty:** Formidable
+> **Additional Details:** 
+
+The precursor directs Roach and Mantis to convince us to stay.
+
+Halcyon lets Zoya and Rowen know that we might get infected.
+
+> [!progress]- The precursor symbiote infects our minds. clock advanced
+> File Name: [[precursor_symbiosis]]
+>**Progress:** 1 out of 6 segments filled
+>![[progress-clock-6-1.svg|100]]
+> 
+> **Cause of Advance:**
+
+Rowen hands the creature over to Halcyon.
+
+"Halcyon, we don't really know how this things works....  you may not be immune."
+
+> [!progress]- Escape the KCP with the precursor creature, 1 Progess Marked (Total: 1 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/escape_cult]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 1 full boxes or 4 ticks
+> 
+> ![[progress-track-4.svg|350]]
+> 
+> Milestone: 
+
+There are maybe 50 cultist.
+
+Does the precursor understand and know Halcyon from the silver age?
+
+### End of Session 10

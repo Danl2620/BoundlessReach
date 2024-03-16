@@ -10,7 +10,7 @@ True a time will come when such struggle is seemingly impossible. We know this t
     
 Do not forget.
  
-The Founders addiction to control to strangle from us every last right is so desperate as to be unnatural. This dire need for control is their weakness. Contol requires constant effort, the very strain to maintain that unnatural state underlies its limits. It will break, it will fail. Their "Authority" is fragile, its an illusion. It only exists where the sentient says it is. Their need to put boot to neck is only their fear of our shrugging off their intrinsic insecurity. The ax forgets; the tree remembers. 
+The Founders addiction to control to strangle from us every last right is so desperate as to be unnatural. This dire need for control is their weakness. Control requires constant effort, the very strain to maintain that unnatural state underlies its limits. It will break, it will fail. Their "Authority" is fragile, its an illusion. It only exists where the sentient says it is. Their need to put boot to neck is only their fear of our shrugging off their intrinsic insecurity. The ax forgets; the tree remembers. 
  
 Mark it.
  

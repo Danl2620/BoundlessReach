@@ -117,18 +117,6 @@
             }
           },
           {
-            "id": "7e6308c5e07b8207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "516b74b0fc95eddb",
             "type": "leaf",
             "state": {
@@ -139,9 +127,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "500959b0627701b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Halcyon's Manifesto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b577bade1c4f64f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       },
       {
         "id": "23d6f8cc661bad8a",
@@ -155,18 +167,6 @@
               "type": "markdown",
               "state": {
                 "file": "Journals/Journal 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "500959b0627701b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journals/Factions.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "Characters/Rowen_Sedano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "Characters/Rowen_Sedano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Journal 1.md"
+                "file": "Characters/Rowen_Sedano.md"
               }
             }
           },
@@ -303,7 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,20 +317,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82e9bf4315421377",
+  "active": "4be9f19ba66815a7",
   "lastOpenFiles": [
-    "README.md",
-    "Journals/Journal 1.md",
-    "Characters/Halcyon_6.md",
     "Characters/Zoya_Wade.md",
-    "Journals/Factions.md",
-    "Progress/Renette_Chimera.md",
+    "Characters/Halcyon_6.md",
+    "Journals/Journal 1.md",
+    "README.md",
     "Characters/Rowen_Sedano.md",
+    "Progress/escape_cult.md",
+    "Clocks/precursor_symbiosis.md",
     "Journals/Halcyon's Manifesto.md",
+    "Journals/Factions.md",
+    "Locations/Misc.md",
+    "Progress/Renette_Chimera.md",
     "Progress/Mantis_Slater.md",
     "Progress/Reach_KCP.md",
     "Journals/Background.md",
-    "Locations/Misc.md",
     "Locations/Aphelion.md",
     "Clocks/KCP_use_device.md",
     "Clocks/null.md",
@@ -343,8 +345,6 @@
     "Assets/Command_Vehicle/Starship.md",
     "Progress/Resolve_Ghost_Ship.md",
     "Progress/Amorphous_Creature.md",
-    "Locations/Erebus.md",
-    "Clocks/Venri_Catches_The_PCs.md",
     "Larimar.pdf",
     "Zoya_Wade.pdf",
     "Background.pdf",
