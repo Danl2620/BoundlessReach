@@ -1,9 +1,9 @@
 ---
-Name: Ayako "Mantis" Slater
-Difficulty: Dangerous
-Progress: 16
-tags: incomplete
-TrackImage: "[[progress-track-16.svg]]"
+Name: Escape the Cultists with the Precursor Artifact
+Difficulty: Formidable
+Progress: 36
+tags: complete
+TrackImage: "[[progress-track-36.svg]]"
 ---
 
 # `=this.Name`

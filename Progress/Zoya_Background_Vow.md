@@ -1,13 +1,13 @@
 ---
 Name: Find The Real Killers
 Difficulty: Epic
-Progress: 3
+Progress: 4
 tags:
   - incomplete
   - background
   - zoya
 Character: Zoya Wade
-TrackImage: "[[progress-track-3.svg]]"
+TrackImage: "[[progress-track-4.svg]]"
 ---
 
 # `=this.Name`

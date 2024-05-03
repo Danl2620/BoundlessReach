@@ -6,7 +6,6 @@
       {
         "id": "65ccc2b772b9930c",
         "type": "tabs",
-        "dimension": 47.88373278939317,
         "children": [
           {
             "id": "8441cfa5114054c3",
@@ -141,7 +140,7 @@
             }
           },
           {
-            "id": "b577bade1c4f64f7",
+            "id": "f891117d8730f9dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -153,12 +152,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       },
       {
-        "id": "23d6f8cc661bad8a",
+        "id": "24089117721a89ec",
         "type": "tabs",
-        "dimension": 52.116267210606836,
         "children": [
           {
             "id": "82e9bf4315421377",
@@ -246,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Rowen_Sedano.md",
+                "file": "Journals/Journal 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Rowen_Sedano.md",
+                "file": "Journals/Journal 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Rowen_Sedano.md"
+                "file": "Journals/Journal 1.md"
               }
             }
           },
@@ -317,34 +315,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4be9f19ba66815a7",
+  "active": "82e9bf4315421377",
   "lastOpenFiles": [
+    "README.md",
+    "Journals/Journal 1.md",
+    "Clocks/Creature_Possesses.md",
+    "Clocks/KCP_use_device.md",
+    "Clocks/null.md",
+    "Characters/Rowen_Sedano.md",
     "Characters/Zoya_Wade.md",
     "Characters/Halcyon_6.md",
-    "Journals/Journal 1.md",
-    "README.md",
-    "Characters/Rowen_Sedano.md",
+    "Progress/Reach_KCP.md",
+    "Progress/Reach_Hermit.md",
+    "Progress/Precursor_Faction.md",
+    "Progress/Mantis_Slater.md",
     "Progress/escape_cult.md",
+    "Progress/Rowen_Sedano_Background_Vow.md",
+    "Progress/Zoya_Background_Vow.md",
+    "Progress/Escape_Cultists.md",
     "Clocks/precursor_symbiosis.md",
     "Journals/Halcyon's Manifesto.md",
     "Journals/Factions.md",
     "Locations/Misc.md",
     "Progress/Renette_Chimera.md",
-    "Progress/Mantis_Slater.md",
-    "Progress/Reach_KCP.md",
     "Journals/Background.md",
     "Locations/Aphelion.md",
-    "Clocks/KCP_use_device.md",
-    "Clocks/null.md",
     "Progress/Link_Lohenze.md",
     "Oracles/Planets/Planets_Class.md",
-    "Progress/Precursor_Faction.md",
     "NPCs/Renette \"Chimera\" Baird.md",
-    "Locations/Larimar.md",
-    "NPCs/Arnav \"Bluewing\" Hunter.md",
-    "Assets/Command_Vehicle/Starship.md",
-    "Progress/Resolve_Ghost_Ship.md",
-    "Progress/Amorphous_Creature.md",
     "Larimar.pdf",
     "Zoya_Wade.pdf",
     "Background.pdf",
