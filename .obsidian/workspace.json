@@ -57,6 +57,18 @@
             }
           },
           {
+            "id": "f7a3dc320ca88b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b9661f2615de904a",
             "type": "leaf",
             "state": {
@@ -93,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "23d6f8cc661bad8a",
@@ -247,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Journal 1.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -319,8 +331,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc72a7b5cb9eae7b",
+  "active": "f7a3dc320ca88b40",
   "lastOpenFiles": [
+    "Journals/Journal 1.md",
+    "conflict-files-obsidian-git.md",
+    "Progress/escape_cult.md",
+    "Progress/Reach_KCP.md",
+    "Progress/Precursor_Faction.md",
+    "Progress/Mantis_Slater.md",
+    "Progress/Link_Lohenze.md",
+    "Locations/Misc.md",
+    "Journals/Halcyon's Manifesto.md",
+    "Clocks/precursor_symbiosis.md",
+    "Clocks/null.md",
+    "Clocks/KCP_use_device.md",
     "Journals/Background.md",
     "Journals/Summary.md",
     "Locations/Aphelion.md",
@@ -331,22 +355,10 @@
     "Locations/Larimar.md",
     "NPCs/Venri \"Cypher\" Paraz.md",
     "NPCs/Haelee \"Fixer\" Savela.md",
-    "Journals/Journal 1.md",
     "NPCs/Renette \"Chimera\" Baird.md",
     "Characters/Zoya_Wade.md",
     "Progress/Venri.md",
     "Progress/Renette_Chimera.md",
-    "Progress/Reach_Hermit.md",
-    "Progress/Fixer_Savela.md",
-    "NPCs/Arthir \"Badger\" Malek.md",
-    "Clocks/Venri_Catches_The_PCs.md",
-    "Locations/Erebus.md",
-    "README.md",
-    "Characters/Halcyon_6.md",
-    "Assets/Command_Vehicle/Starship.md",
-    "Characters/Rowen_Sedano.md",
-    "Progress/Arnav.md",
-    "Clocks/Keeper_Arrives.md",
     "Larimar.pdf",
     "Zoya_Wade.pdf",
     "Background.pdf",
