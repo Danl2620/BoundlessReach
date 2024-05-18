@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Aphelion.md",
+                "file": "Journals/Journal 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,21 +91,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eac6f063d49f5e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progress/Resolve_Ghost_Ship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "23d6f8cc661bad8a",
@@ -184,7 +172,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -258,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Factions.md",
+                "file": "Journals/Journal 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Factions.md",
+                "file": "Journals/Journal 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Factions.md"
+                "file": "Journals/Journal 1.md"
               }
             }
           },
@@ -330,12 +319,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25967f1ed368f872",
+  "active": "fc72a7b5cb9eae7b",
   "lastOpenFiles": [
-    "Locations/Larimar.md",
-    "Journals/Summary.md",
-    "Journals/Factions.md",
     "Journals/Background.md",
+    "Journals/Summary.md",
+    "Locations/Aphelion.md",
+    "NPCs/Arnav \"Bluewing\" Hunter.md",
+    "Journals/Factions.md",
+    "Progress/Resolve_Ghost_Ship.md",
+    "Progress/Amorphous_Creature.md",
+    "Locations/Larimar.md",
     "NPCs/Venri \"Cypher\" Paraz.md",
     "NPCs/Haelee \"Fixer\" Savela.md",
     "Journals/Journal 1.md",
@@ -352,12 +345,8 @@
     "Characters/Halcyon_6.md",
     "Assets/Command_Vehicle/Starship.md",
     "Characters/Rowen_Sedano.md",
-    "Locations/Aphelion.md",
-    "NPCs/Arnav \"Bluewing\" Hunter.md",
     "Progress/Arnav.md",
     "Clocks/Keeper_Arrives.md",
-    "Oracles/Core/Core_Theme.md",
-    "Progress/Resolve_Ghost_Ship.md",
     "Larimar.pdf",
     "Zoya_Wade.pdf",
     "Background.pdf",
