@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8441cfa5114054c3",
+            "id": "774fbb9d24c3d87f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Halcyon_6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4be9f19ba66815a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Rowen_Sedano.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbb652f22cd4a998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Zoya_Wade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b8a151bc678e282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Aphelion.md",
+                "file": "Journals/Journal 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Misc.md",
+                "file": "Journals/Journal 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,37 +103,6 @@
               }
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "24089117721a89ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "82e9bf4315421377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journals/Journal 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "500959b0627701b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journals/Halcyon's Manifesto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
         ]
       }
     ],
@@ -228,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 343.5
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -301,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 386.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,37 +246,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82e9bf4315421377",
+  "active": "774fbb9d24c3d87f",
   "lastOpenFiles": [
-    "Characters/Zoya_Wade.md",
-    "Journals/Journal 1.md",
-    "NPCs/Venri \"Cypher\" Paraz.md",
-    "NPCs/Renette \"Chimera\" Baird.md",
-    "NPCs/Haelee \"Fixer\" Savela.md",
-    "NPCs/Arthir \"Badger\" Malek.md",
-    "NPCs/Arnav \"Bluewing\" Hunter.md",
-    "README.md",
     "Clocks/Creature_Possesses.md",
     "Locations/Aphelion.md",
+    "Excalidraw/Drawing 2024-05-29 22.22.33.excalidraw.md",
+    "Locations/Starting Sector Map.canvas",
+    "Pasted Image 20240529222348_343.jpg",
+    "Untitled 1.canvas",
+    "Excalidraw",
+    "Journals/Journal 1.md",
+    "Locations/Misc.md",
+    "Journals/Background.md",
+    "Characters/Zoya_Wade.md",
+    "Progress/Venri.md",
+    "NPCs/Venri \"Cypher\" Paraz.md",
+    "NPCs/Renette \"Chimera\" Baird.md",
+    "NPCs/Arthir \"Badger\" Malek.md",
+    "NPCs/Haelee \"Fixer\" Savela.md",
+    "Characters/Rowen_Sedano.md",
+    "Characters/Halcyon_6.md",
+    "2024-05-29.md",
+    "Journals/Halcyon's Manifesto.md",
+    "Clocks/Boss_Bolo_senses_us.md",
+    "NPCs/Arnav \"Bluewing\" Hunter.md",
+    "README.md",
     "Locations/Larimar.md",
     "Locations/Erebus.md",
-    "Journals/Background.md",
     "Assets/Command_Vehicle/Starship.md",
-    "Journals/Halcyon's Manifesto.md",
-    "Characters/Halcyon_6.md",
-    "Characters/Rowen_Sedano.md",
     "Clocks/KCP_use_device.md",
     "Clocks/null.md",
     "Progress/Reach_KCP.md",
-    "Progress/Reach_Hermit.md",
-    "Progress/Precursor_Faction.md",
-    "Progress/Mantis_Slater.md",
-    "Progress/escape_cult.md",
-    "Progress/Rowen_Sedano_Background_Vow.md",
-    "Progress/Zoya_Background_Vow.md",
     "Larimar.pdf",
     "Zoya_Wade.pdf",
     "Background.pdf",
@@ -357,11 +295,9 @@
     "Images/Concepts/Layout_01_by_saejinoh_cropped.png",
     "Characters/Zoya_Wade.mediawiki",
     "Characters/Zoya_Wade.html",
-    "Images/Concepts/drilling_rig_by_cyberkite_ddnl868-fullview.jpg",
     "gh-pages/docs/assets/css/customization.css",
     "gh-pages/docs/assets/css/custom_attributes.css",
     "gh-pages/docs/assets/css/admonition.css",
-    "gh-pages/overrides/partials/source-file.html",
-    "gh-pages/overrides/partials/post-list.html"
+    "gh-pages/overrides/partials/source-file.html"
   ]
 }
