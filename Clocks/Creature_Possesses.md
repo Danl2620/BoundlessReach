@@ -1,9 +1,9 @@
 ---
 Name: The precursor creature will possess one of us (who will it be??)
 Segments: 6
-Progress: 0
+Progress: 1
 tags: incomplete
-ClockImage: "[[progress-clock-6-0.svg]]"
+ClockImage: "[[progress-clock-6-1.svg]]"
 ---
 
 # `=this.Name`

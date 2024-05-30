@@ -2291,3 +2291,48 @@ Halcyon convinces Mantis to join us in our mission.n
 
 ### End of Session 11
 
+## Session 12
+
+The party wonders: what will we do with the "Precursor Blattoid"?
+
+Halcyon wants to control/neuter the creature. Halcyon also wants to scientifically examine the creature. Halcyon wants to use the ~~AI~~ Overseer.
+
+Zoya wants to use the creature on her enemies. First, though, Zoya wants to lock the creature up with Roach.
+
+Rowen wants to contain the creature. Rowen is not sure about sacrificing Roach in the process.
+
+
+The party uses the overseer to secure an advantage to study the creature.
+
+Strong hit.
+
+> [!mechanics]- Zoya Wade's Momentum set to 7 out of 10.
+
+> [!challenge-strong]- Zoya Wade Gather Information: Wits + 1
+> ![[d6-6-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-10-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+> [!mechanics]- Zoya Wade's Momentum set to 9 out of 10.
+
+The creature is:
+* metamorphic
+* egg sac or carried offspring or cordyceps / infested with parasites
+
+The creature has deposited its offspring with Roach. The creature needs its offspring to accumulate mass and energy to transform itself into its next form.  Ultimately it will become a spacefaring creature.
+
+> [!progress]- The precursor creature will possess one of us (who will it be??) clock advanced
+> File Name: [[Creature_Possesses]]
+>**Progress:** 1 out of 6 segments filled
+>![[progress-clock-6-1.svg|100]]
+> 
+> **Cause of Advance:**
+
+It can't affect AIs. So the overseer and Halcyon are immune.
+
+We are worried this thing will destroy any world we travel to.
+
+We have a torpedo that can carry it and we are confident that it will be destroyed.
+
+
+### Session 12
