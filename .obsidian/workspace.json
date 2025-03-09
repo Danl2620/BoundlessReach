@@ -6,7 +6,7 @@
       {
         "id": "65ccc2b772b9930c",
         "type": "tabs",
-        "dimension": 42.864030858244945,
+        "dimension": 47.2689075630252,
         "children": [
           {
             "id": "8441cfa5114054c3",
@@ -17,7 +17,9 @@
                 "file": "Characters/Halcyon_6.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Halcyon_6"
             }
           },
           {
@@ -29,7 +31,9 @@
                 "file": "Characters/Rowen_Sedano.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rowen_Sedano"
             }
           },
           {
@@ -41,7 +45,9 @@
                 "file": "Characters/Zoya_Wade.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Zoya_Wade"
             }
           },
           {
@@ -50,22 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "Journals/Background.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f7a3dc320ca88b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Background"
             }
           },
           {
@@ -77,7 +73,9 @@
                 "file": "NPCs/Arnav \"Bluewing\" Hunter.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Arnav \"Bluewing\" Hunter"
             }
           },
           {
@@ -89,7 +87,9 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -101,16 +101,18 @@
                 "file": "Journals/Factions.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Factions"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "23d6f8cc661bad8a",
         "type": "tabs",
-        "dimension": 57.135969141755055,
+        "dimension": 52.7310924369748,
         "children": [
           {
             "id": "e667931b01b9fe60",
@@ -121,7 +123,9 @@
                 "file": "Journals/Journal 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Journal 1"
             }
           },
           {
@@ -133,7 +137,9 @@
                 "file": "Locations/Aphelion.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Aphelion"
             }
           },
           {
@@ -145,7 +151,9 @@
                 "file": "Assets/Command_Vehicle/Starship.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Starship"
             }
           },
           {
@@ -157,7 +165,9 @@
                 "file": "Locations/Erebus.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Erebus"
             }
           },
           {
@@ -169,7 +179,9 @@
                 "file": "Progress/Amorphous_Creature.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Amorphous_Creature"
             }
           },
           {
@@ -181,7 +193,9 @@
                 "file": "Journals/Factions.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Factions"
             }
           }
         ],
@@ -205,7 +219,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -220,7 +236,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -228,7 +246,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -236,7 +256,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -259,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Journals/Halcyon's Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +289,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Halcyon's Manifesto"
             }
           },
           {
@@ -276,10 +300,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Journals/Halcyon's Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Halcyon's Manifesto"
             }
           },
           {
@@ -290,7 +316,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -299,8 +327,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+                "file": "Journals/Halcyon's Manifesto.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Halcyon's Manifesto"
             }
           },
           {
@@ -308,7 +338,9 @@
             "type": "leaf",
             "state": {
               "type": "inline-scripts-button-view",
-              "state": {}
+              "state": {},
+              "icon": "inline-scripts-button-view",
+              "title": "Inline Scripts - Buttons"
             }
           }
         ],
@@ -331,8 +363,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7a3dc320ca88b40",
+  "active": "fc72a7b5cb9eae7b",
   "lastOpenFiles": [
+    "Locations/Larimar.md",
+    "Journals/Halcyon's Manifesto.md",
     "Journals/Journal 1.md",
     "conflict-files-obsidian-git.md",
     "Progress/escape_cult.md",
@@ -341,7 +375,6 @@
     "Progress/Mantis_Slater.md",
     "Progress/Link_Lohenze.md",
     "Locations/Misc.md",
-    "Journals/Halcyon's Manifesto.md",
     "Clocks/precursor_symbiosis.md",
     "Clocks/null.md",
     "Clocks/KCP_use_device.md",
@@ -352,7 +385,6 @@
     "Journals/Factions.md",
     "Progress/Resolve_Ghost_Ship.md",
     "Progress/Amorphous_Creature.md",
-    "Locations/Larimar.md",
     "NPCs/Venri \"Cypher\" Paraz.md",
     "NPCs/Haelee \"Fixer\" Savela.md",
     "NPCs/Renette \"Chimera\" Baird.md",
