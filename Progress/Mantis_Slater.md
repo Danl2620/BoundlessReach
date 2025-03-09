@@ -1,9 +1,9 @@
 ---
 Name: Ayako "Mantis" Slater
 Difficulty: Dangerous
-Progress: 0
+Progress: 16
 tags: incomplete
-TrackImage: "[[progress-track-0.svg]]"
+TrackImage: "[[progress-track-16.svg]]"
 ---
 
 # `=this.Name`

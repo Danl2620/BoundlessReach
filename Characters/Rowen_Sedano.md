@@ -5,10 +5,10 @@ Heart: 2
 Iron: 3
 Shadow: 1
 Wits: 1
-Health: 4
+Health: 5
 Spirit: 5
-Supply: 4
-Momentum: 3
+Supply: 5
+Momentum: 8
 Wealth: 1
 Wounded: ⬡
 Shaken: ⬡
@@ -25,9 +25,9 @@ Bonds_XPEarned: 0
 Discoveries_Progress: 5
 Discoveries_TrackImage: "[[progress-track-5.svg]]"
 Discoveries_XPEarned: 2
-Quests_Progress: 4
-Quests_TrackImage: "[[progress-track-4.svg]]"
-Quests_XPEarned: 2
+Quests_Progress: 8
+Quests_TrackImage: "[[progress-track-8.svg]]"
+Quests_XPEarned: 4
 Label: rowen
 Callsign: Shutdown
 ---

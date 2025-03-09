@@ -2116,3 +2116,223 @@ There are maybe 50 cultist.
 Does the precursor understand and know Halcyon from the silver age?
 
 ### End of Session 10
+
+## Session 11
+
+Party is headed for the exits but the cultists are surrounding us.
+
+Zoya grabs Roach
+
+> [!mechanics]- Zoya Wade's Momentum set to 1 out of 10.
+
+Zoya ties Roach up.  
+
+> [!mechanics]- Zoya Wade's Momentum set to 3 out of 10.
+
+> [!progress]- New Progress Track Created: [[Progress/Escape_Cultists|Escape_Cultists]], Total: 0 ![[progress-box-4.svg|15]]
+> **Name:** Escape the Cultists with the Precursor Artifact
+> **Difficulty:** Formidable
+> **Additional Details:** 
+
+The cultists begin to close around us as Rowen moves forward.  
+
+A cultist drops from the ceiling to try grabbing Halcyon.
+
+Rowen moves decisively past some cultists.
+
+> [!mechanics]- Rowen Sedano's Momentum set to 5 out of 10.
+
+> [!progress]- Escape the Cultists with the Precursor Artifact, 3 Progess Marked (Total: 3 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Escape_Cultists]], Difficulty: Formidable
+> 3 progress marked or 12 ticks for a total of 3 full boxes or 12 ticks
+> 
+> ![[progress-track-12.svg|350]]
+> 
+> Milestone: 
+
+
+> [!progress]- Escape the Cultists with the Precursor Artifact, 1 Progess Marked (Total: 4 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Escape_Cultists]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 4 full boxes or 16 ticks
+> 
+> ![[progress-track-16.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Escape the Cultists with the Precursor Artifact, 2 Progess Marked (Total: 6 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Escape_Cultists]], Difficulty: Formidable
+> 2 progress marked or 8 ticks for a total of 6 full boxes or 24 ticks
+> 
+> ![[progress-track-24.svg|350]]
+> 
+> Milestone: 
+
+> [!mechanics]- Zoya Wade's Momentum set to 4 out of 10.
+
+> [!progress]- Escape the Cultists with the Precursor Artifact, 1 Progess Marked (Total: 7 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Escape_Cultists]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 7 full boxes or 28 ticks
+> 
+> ![[progress-track-28.svg|350]]
+> 
+> Milestone: 
+
+> [!mechanics]- Rowen Sedano's Momentum set to 7 out of 10.
+
+> [!progress]- Escape the Cultists with the Precursor Artifact, 1 Progess Marked (Total: 8 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Escape_Cultists]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 8 full boxes or 32 ticks
+> 
+> ![[progress-track-32.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Escape the Cultists with the Precursor Artifact, 1 Progess Marked (Total: 9 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Escape_Cultists]], Difficulty: Formidable
+> 1 progress marked or 4 ticks for a total of 9 full boxes or 36 ticks
+> 
+> ![[progress-track-36.svg|350]]
+> 
+> Milestone: 
+
+> [!mechanics]- Zoya Wade's Momentum set to 6 out of 10.
+
+> [!mechanics]- Rowen Sedano's Momentum set to 8 out of 10.
+
+
+
+The party blasts an exit from the ship and rejoins the rover.
+
+> [!progress]- Find The Real Killers, 1 Progess Marked (Total: 1 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Zoya_Background_Vow]], Difficulty: Epic
+> 1 progress marked or 1 ticks for a total of 1 full boxes or 4 ticks
+> 
+> ![[progress-track-4.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Halcyon 6's Quests, 1 Progess Marked (Total: 1 ![[progress-box-4.svg|15]])
+> File Name: [[Characters/Halcyon_6]], Difficulty: Epic
+> 1 progress marked or 1 ticks for a total of 1 full boxes or 5 ticks
+> 
+> ![[progress-track-5.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Halcyon 6's Quests, 3 Progess Marked (Total: 2 ![[progress-box-4.svg|15]])
+> File Name: [[Characters/Halcyon_6]], Difficulty: Epic
+> 3 progress marked or 3 ticks for a total of 2 full boxes or 8 ticks
+> 
+> ![[progress-track-8.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Rowen Sedano's Quests, 4 Progess Marked (Total: 2 ![[progress-box-4.svg|15]])
+> File Name: [[Characters/Rowen_Sedano]], Difficulty: Epic
+> 4 progress marked or 4 ticks for a total of 2 full boxes or 8 ticks
+> 
+> ![[progress-track-8.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Zoya Wade's Quests, 4 Progess Marked (Total: 2 ![[progress-box-4.svg|15]])
+> File Name: [[Characters/Zoya_Wade]], Difficulty: Epic
+> 4 progress marked or 4 ticks for a total of 2 full boxes or 8 ticks
+> 
+> ![[progress-track-8.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Link Lohenz, 1 Progess Marked (Total: 4 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Link_Lohenze]], Difficulty: Dangerous
+> 1 progress marked or 8 ticks for a total of 4 full boxes or 16 ticks
+> 
+> ![[progress-track-16.svg|350]]
+> 
+> Milestone: 
+
+> [!progress]- Ayako "Mantis" Slater, 1 Progess Marked (Total: 2 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Mantis_Slater]], Difficulty: Dangerous
+> 1 progress marked or 8 ticks for a total of 2 full boxes or 8 ticks
+> 
+> ![[progress-track-8.svg|350]]
+> 
+> Milestone: 
+
+The party reaches "Sirius Landing", returns the rover to Link who is thankful we resolved the cults activities.
+
+The party sojourns at "Sirius Landing".
+
+> [!mechanics]- Zoya Wade's Supply set to 3 out of 5.
+
+> [!mechanics]- Zoya Wade's Health set to 5 out of 5.
+
+> [!mechanics]- Rowen Sedano's Health set to 5 out of 5.
+
+> [!mechanics]- Rowen Sedano's Supply set to 5 out of 5.
+
+> [!mechanics]- Halcyon 6's Spirit set to 5 out of 5.
+
+> [!progress]- New Progress Clock Created: [[Clocks/Creature_Possesses|Creature_Possesses]], Total: 0 ![[progress-clock-6-0.svg|15]]
+> **Name:** The precursor creature will possess one of us (who will it be??)
+> **Segments:** 6
+>![[progress-clock-6-0.svg|100]]
+> **Additional Details:** 
+
+> [!progress]- Ayako "Mantis" Slater, 1 Progess Marked (Total: 4 ![[progress-box-4.svg|15]])
+> File Name: [[Progress/Mantis_Slater]], Difficulty: Dangerous
+> 1 progress marked or 8 ticks for a total of 4 full boxes or 16 ticks
+> 
+> ![[progress-track-16.svg|350]]
+> 
+> Milestone: 
+
+Halcyon convinces Mantis to join us in our mission.n
+
+### End of Session 11
+
+## Session 12
+
+The party wonders: what will we do with the "Precursor Blattoid"?
+
+Halcyon wants to control/neuter the creature. Halcyon also wants to scientifically examine the creature. Halcyon wants to use the ~~AI~~ Overseer.
+
+Zoya wants to use the creature on her enemies. First, though, Zoya wants to lock the creature up with Roach.
+
+Rowen wants to contain the creature. Rowen is not sure about sacrificing Roach in the process.
+
+
+The party uses the overseer to secure an advantage to study the creature.
+
+Strong hit.
+
+> [!mechanics]- Zoya Wade's Momentum set to 7 out of 10.
+
+> [!challenge-strong]- Zoya Wade Gather Information: Wits + 1
+> ![[d6-6-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-1-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-10-t.svg#invert_W|50]]
+> ![[vs-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]
+> ### Result: ![[outcome-strong-hit.svg|50]] Strong Hit
+
+> [!mechanics]- Zoya Wade's Momentum set to 9 out of 10.
+
+The creature is:
+* metamorphic
+* egg sac or carried offspring or cordyceps / infested with parasites
+
+The creature has deposited its offspring with Roach. The creature needs its offspring to accumulate mass and energy to transform itself into its next form.  Ultimately it will become a spacefaring creature.
+
+> [!progress]- The precursor creature will possess one of us (who will it be??) clock advanced
+> File Name: [[Creature_Possesses]]
+>**Progress:** 1 out of 6 segments filled
+>![[progress-clock-6-1.svg|100]]
+> 
+> **Cause of Advance:**
+
+It can't affect AIs. So the overseer and Halcyon are immune.
+
+We are worried this thing will destroy any world we travel to.
+
+We have a torpedo that can carry it and we are confident that it will be destroyed.
+
+
+### Session 12

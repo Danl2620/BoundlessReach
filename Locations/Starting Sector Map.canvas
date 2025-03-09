@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"0806906c21a445b7","x":-1200,"y":-500,"width":2180,"height":1400,"type":"group","label":"Starting Sector"},
+		{"id":"f7def910bbb357b5","type":"file","file":"Locations/Erebus.md","x":337,"y":-360,"width":400,"height":400},
+		{"id":"1746888d9f20b52a","x":-550,"y":1220,"width":250,"height":60,"color":"5","type":"text","text":"Terminus"},
+		{"id":"b19f13f0564af983","type":"file","file":"Locations/Aphelion.md","x":-425,"y":420,"width":425,"height":400},
+		{"id":"791f3d403df648f8","x":-900,"y":-460,"width":250,"height":180,"type":"text","text":"## Aeternitas\n\n* Terraforming operation\n* Arthir \"Badger\""},
+		{"id":"6e70e3aae82f46cf","x":-1112,"y":71,"width":250,"height":200,"type":"text","text":"## Sirius Landing\n\n* On ice planet Kheimon\n* The Keepers of the Cursed Pact"},
+		{"id":"bbb9586d69f21fa9","type":"file","file":"Locations/Larimar.md","x":-700,"y":-129,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"d43168d20aa9e7ca","fromNode":"b19f13f0564af983","fromSide":"left","toNode":"bbb9586d69f21fa9","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"c0cc5bf4ab40a572","fromNode":"bbb9586d69f21fa9","fromSide":"right","toNode":"f7def910bbb357b5","toSide":"left","fromEnd":"arrow"},
+		{"id":"4099ba60e5a6804d","fromNode":"1746888d9f20b52a","fromSide":"top","toNode":"b19f13f0564af983","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"4b90912e0c16e09b","fromNode":"791f3d403df648f8","fromSide":"bottom","toNode":"bbb9586d69f21fa9","toSide":"top","fromEnd":"arrow"},
+		{"id":"5a9193b3920f18ee","fromNode":"6e70e3aae82f46cf","fromSide":"right","toNode":"bbb9586d69f21fa9","toSide":"left"}
+	]
+}

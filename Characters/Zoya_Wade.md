@@ -5,10 +5,10 @@ Heart: 1
 Iron: 1
 Shadow: 2
 Wits: 3
-Health: 3
+Health: 5
 Spirit: 3
-Supply: 1
-Momentum: 0
+Supply: 3
+Momentum: 9
 Wealth: 1
 Wounded: ⬡
 Shaken: ⬡
@@ -25,9 +25,9 @@ Bonds_XPEarned: 0
 Discoveries_Progress: 5
 Discoveries_TrackImage: "[[progress-track-5.svg]]"
 Discoveries_XPEarned: 2
-Quests_Progress: 4
-Quests_TrackImage: "[[progress-track-4.svg]]"
-Quests_XPEarned: 2
+Quests_Progress: 8
+Quests_TrackImage: "[[progress-track-8.svg]]"
+Quests_XPEarned: 4
 Label: zoya
 Callsign: Straggler
 ---
@@ -105,6 +105,9 @@ WHERE file.name != "Progress_Template"
 
 ![[Starship]]
 
+
 ![[Overseer]]
+
+
 
 ![[Heavy_Cannons]]
